@@ -1,0 +1,714 @@
+address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+4746 NE 20th Ave,Portland,OR,97211,775000,2749.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4746-NE-20th-Ave-Portland-OR-97211/53976853_zpid/
+1026 NE Prescott St,Portland,OR,97211,1086500,3800.0,4.0,4.0,263,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1026-NE-Prescott-St-Portland-OR-97211/83079639_zpid/
+1111 NE Holland St,Portland,OR,97211,759900,3356.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1111-NE-Holland-St-Portland-OR-97211/53863685_zpid/
+4325 NE 21st Ave,Portland,OR,97211,679000,3244.0,3.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4325-NE-21st-Ave-Portland-OR-97211/53977041_zpid/
+4233 NE 18th Ave,Portland,OR,97211,650000,2150.0,3.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4233-NE-18th-Ave-Portland-OR-97211/53887756_zpid/
+5735 NE 16th Ave,Portland,OR,97211,540000,2087.0,4.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5735-NE-16th-Ave-Portland-OR-97211/53921868_zpid/
+4513 NE 13th Ave,Portland,OR,97211,550000,2336.0,3.0,1.0,4,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4513-NE-13th-Ave-Portland-OR-97211/53879296_zpid/
+5312 NE 11th Ave # 1,Portland,OR,97211,279900,454.0,1.0,1.0,5,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5312-NE-11th-Ave-1-Portland-OR-97211/2091040458_zpid/
+4702 NE 30th Ave,Portland,OR,97211,699000,2254.0,4.0,3.0,4,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4702-NE-30th-Ave-Portland-OR-97211/53858421_zpid/
+5312 NE 11th Ave # 2,Portland,OR,97211,579900,1957.0,4.0,3.0,5,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5312-NE-11th-Ave-2-Portland-OR-97211/2091040457_zpid/
+3552 NE Killingsworth St,Portland,OR,97211,499000,4791.0,NA,NA,3,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3552-NE-Killingsworth-St-Portland-OR-97211/2091016440_zpid/
+1088 NE Stafford St,Portland,OR,97211,714900,2969.0,4.0,3.0,4,New Construction,http://www.zillow.com/homes/for_sale//homedetails/1088-NE-Stafford-St-Portland-OR-97211/2091027271_zpid/
+5312 NE 11th Ave,Portland,OR,97211,1899000,4648.0,5.0,4.0,8,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5312-NE-11th-Ave-Portland-OR-97211/2091082780_zpid/
+5081 NE 32nd Ave,Portland,OR,97211,825000,2602.0,5.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5081-NE-32nd-Ave-Portland-OR-97211/2091056604_zpid/
+5903 NE 32nd Ave,Portland,OR,97211,769950,2743.0,5.0,4.0,8,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5903-NE-32nd-Ave-Portland-OR-97211/53888532_zpid/
+919 NE Alberta St,Portland,OR,97211,950000,3487.0,1.0,1.0,6,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/919-NE-Alberta-St-Portland-OR-97211/2091050371_zpid/
+1105 NE Holland St,Portland,OR,97211,450000,4791.0,NA,NA,6,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/1105-NE-Holland-St-Portland-OR-97211/2091055753_zpid/
+1014 NE Wygant St,Portland,OR,97211,399950,2168.0,4.0,2.0,28,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1014-NE-Wygant-St-Portland-OR-97211/53879232_zpid/
+55 NE Bridgeton Rd,Portland,OR,97211,165000,NA,1.0,1.0,26,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-NE-Bridgeton-Rd-Portland-OR-97211/2093594714_zpid/
+5525 NE 28th Ave,Portland,OR,97211,524777,2576.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5525-NE-28th-Ave-Portland-OR-97211/53888268_zpid/
+4528 NE 32nd Pl,Portland,OR,97211,899900,2625.0,4.0,3.0,11,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4528-NE-32nd-Pl-Portland-OR-97211/2091135889_zpid/
+3255 NE Prescott St,Portland,OR,97211,850000,2576.0,5.0,4.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3255-NE-Prescott-St-Portland-OR-97211/2091136882_zpid/
+5471 NE 37th Ave,Portland,OR,97211,655000,2249.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5471-NE-37th-Ave-Portland-OR-97211/2092915050_zpid/
+6446 NE 30th Ave,Portland,OR,97211,599900,2266.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6446-NE-30th-Ave-Portland-OR-97211/53888469_zpid/
+1410 NE Marine Dr,Portland,OR,97211,699000,4050.0,3.0,3.0,11,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1410-NE-Marine-Dr-Portland-OR-97211/53872283_zpid/
+6231 NE 8th Ave,Portland,OR,97211,499900,1440.0,4.0,NA,11,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/6231-NE-8th-Ave-Portland-OR-97211/2144443271_zpid/
+5485 NE 37th Ave,Portland,OR,97211,849000,3593.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5485-NE-37th-Ave-Portland-OR-97211/2092914860_zpid/
+5437 NE 37th Ave,Portland,OR,97211,569000,1634.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5437-NE-37th-Ave-Portland-OR-97211/2091228215_zpid/
+5459 NE 37th Ave,Portland,OR,97211,655000,2249.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5459-NE-37th-Ave-Portland-OR-97211/2092915017_zpid/
+147 NE Lombard St,Portland,OR,97211,485000,1612.0,4.0,2.0,10,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/147-NE-Lombard-St-Portland-OR-97211/2100151942_zpid/
+5400 NE 30th Ave APT 302,Portland,OR,97211,219000,594.0,1.0,1.0,166,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5400-NE-30th-Ave-APT-302-Portland-OR-97211/60841793_zpid/
+506 NE Skidmore St,Portland,OR,97211,190000,4791.0,NA,NA,474,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/506-NE-Skidmore-St-Portland-OR-97211/53903302_zpid/
+5312 NE 12th Ave,Portland,OR,97211,500000,2054.0,4.0,2.0,157,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5312-NE-12th-Ave-Portland-OR-97211/53833042_zpid/
+6909 NE Garfield Ave,Portland,OR,97211,374900,1040.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6909-NE-Garfield-Ave-Portland-OR-97211/53934175_zpid/
+5272 NE 20th Ave,Portland,OR,97211,440000,1682.0,5.0,1.0,1054,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/5272-NE-20th-Ave-Portland-OR-97211/53976336_zpid/
+6223 NE 8th Ave,Portland,OR,97211,669000,3990.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6223-NE-8th-Ave-Portland-OR-97211/53990741_zpid/
+1142 NE Stafford St,Portland,OR,97211,299900,960.0,3.0,1.0,137,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1142-NE-Stafford-St-Portland-OR-97211/53863676_zpid/
+4590 NE Cesar E Chavez Blvd,Portland,OR,97211,769000,2797.0,3.0,4.0,32,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4590-NE-Cesar-E-Chavez-Blvd-Portland-OR-97211/2091440141_zpid/
+3904 NE Going St,Portland,OR,97211,789000,3128.0,4.0,4.0,31,New Construction,http://www.zillow.com/homes/for_sale//homedetails/3904-NE-Going-St-Portland-OR-97211/2091439978_zpid/
+5531 NE Cleveland Ave,Portland,OR,97211,699000,3408.0,4.0,3.0,305,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5531-NE-Cleveland-Ave-Portland-OR-97211/53933506_zpid/
+9233 NE Levee Rd,Portland,OR,97211,355000,1971.0,3.0,2.0,144,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/9233-NE-Levee-Rd-Portland-OR-97211/53825824_zpid/
+1212 NE Faloma Rd,Portland,OR,97211,374000,2380.0,NA,2.5,860,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/1212-NE-Faloma-Rd-Portland-OR-97211/71244435_zpid/
+1349 NE Webster St,Portland,OR,97211,425000,1170.0,2.0,1.0,117,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1349-NE-Webster-St-Portland-OR-97211/53953907_zpid/
+245 NE Stafford St,Portland,OR,97211,372000,1341.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-NE-Stafford-St-Portland-OR-97211/53904900_zpid/
+4903 NE 12th Ave,Portland,OR,97211,1275000,3270.0,5.0,3.1,62,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4903-NE-12th-Ave-Portland-OR-97211/53813036_zpid/
+6522 NE Grand Ave,Portland,OR,97211,649950,2532.0,4.0,3.1,105,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6522-NE-Grand-Ave-Portland-OR-97211/2092142279_zpid/
+4833 NE 11th Ave,Portland,OR,97211,825000,2943.0,6.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4833-NE-11th-Ave-Portland-OR-97211/53879873_zpid/
+5315 NE 20th Ave,Portland,OR,97211,750000,2334.0,4.0,2.5,49,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5315-NE-20th-Ave-Portland-OR-97211/53976268_zpid/
+4407 NE 31st Ave,Portland,OR,97211,829999,2891.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4407-NE-31st-Ave-Portland-OR-97211/53812157_zpid/
+1525 NE Marine Dr,Portland,OR,97211,3875000,8690.0,5.0,6.0,277,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1525-NE-Marine-Dr-Portland-OR-97211/53872322_zpid/
+5281 NE 19th Ave,Portland,OR,97211,925000,3307.0,5.0,3.1,139,New Construction,http://www.zillow.com/homes/for_sale//homedetails/5281-NE-19th-Ave-Portland-OR-97211/2092517162_zpid/
+4306 NE 41st Ave,Portland,OR,97211,679900,2507.0,4.0,3.0,39,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4306-NE-41st-Ave-Portland-OR-97211/53988882_zpid/
+4110 NE 12th Ave,Portland,OR,97211,649950,2191.0,4.0,2.1,216,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4110-NE-12th-Ave-Portland-OR-97211/2093445517_zpid/
+4736 NE 25th Ave,Portland,OR,97211,949900,3022.0,7.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4736-NE-25th-Ave-Portland-OR-97211/53902528_zpid/
+2308 NE Wygant St,Portland,OR,97211,1149000,2327.0,4.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/2308-NE-Wygant-St-Portland-OR-97211/2091624887_zpid/
+303 NE Buffalo St,Portland,OR,97211,375000,1020.0,3.0,1.0,84,Auction,http://www.zillow.com/homes/for_sale//homedetails/303-NE-Buffalo-St-Portland-OR-97211/53904950_zpid/
+5105/07 NE 23rd Ave,Portland,OR,97211,780000,2728.0,2.0,1.0,31,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5105-07-NE-23rd-Ave-Portland-OR-97211/2091431899_zpid/
+2715 NE Jarrett St,Portland,OR,97211,500000,1089.0,3.0,1.0,200,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2715-NE-Jarrett-St-Portland-OR-97211/53888251_zpid/
+6520 NE Grand Ave,Portland,OR,97211,649950,2532.0,4.0,3.1,105,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6520-NE-Grand-Ave-Portland-OR-97211/2092142280_zpid/
+6645 NE 32nd Pl,Portland,OR,97211,585000,3064.0,3.0,3.0,116,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6645-NE-32nd-Pl-Portland-OR-97211/53865602_zpid/
+750 NE Holland St,Portland,OR,97211,165000,4098.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/750-NE-Holland-St-Portland-OR-97211/53858059_zpid/
+1748 NE Rosa Parks Way,Portland,OR,97211,699000,2446.0,4.0,3.0,192,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1748-NE-Rosa-Parks-Way-Portland-OR-97211/82343488_zpid/
+5308 NE 30th Ave,Portland,OR,97211,1000000,5787.0,4.0,3.0,69,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5308-NE-30th-Ave-Portland-OR-97211/80623076_zpid/
+4900 NE 18th Ave,Portland,OR,97211,998500,4800.0,4.0,2.0,213,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4900-NE-18th-Ave-Portland-OR-97211/53976668_zpid/
+5027 NE 19th Ave,Portland,OR,97211,1095000,2950.0,5.0,3.0,168,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5027-NE-19th-Ave-Portland-OR-97211/53976521_zpid/
+NE 32nd Ave,Portland,OR,97211,335000,3484.0,NA,NA,82,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/NE-32nd-Ave-Portland-OR-97211/126250158_zpid/
+NE Buffalo St,Portland,OR,97211,144340,2613.0,NA,NA,256,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/NE-Buffalo-St-Portland-OR-97211/2093911129_zpid/
+931 NE South Shore Rd,Portland,OR,97211,430000,2072.0,4.0,3.0,52,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/931-NE-South-Shore-Rd-Portland-OR-97211/53957656_zpid/
+4736 NE 23rd Ave,Portland,OR,97211,1149000,2375.0,4.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/4736-NE-23rd-Ave-Portland-OR-97211/2091625553_zpid/
+2969 NE Dekum St,Portland,OR,97211,629000,2150.0,3.0,3.0,33,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2969-NE-Dekum-St-Portland-OR-97211/124206057_zpid/
+5841 NE 17th Ave,Portland,OR,97211,599000,2292.0,3.0,2.0,120,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5841-NE-17th-Ave-Portland-OR-97211/53921985_zpid/
+1336 NE Holland St,Portland,OR,97211,799900,4169.0,6.0,4.0,193,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1336-NE-Holland-St-Portland-OR-97211/2093156191_zpid/
+32 NE Rosa Parks Way,Portland,OR,97211,694999,4650.0,4.0,3.0,325,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-NE-Rosa-Parks-Way-Portland-OR-97211/53934128_zpid/
+6424 NE 35th Ave,Portland,OR,97211,749500,2880.0,5.0,4.0,199,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6424-NE-35th-Ave-Portland-OR-97211/124247589_zpid/
+2834 NE Killingsworth St,Portland,OR,97211,1299900,4440.0,0.0,NA,172,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2834-NE-Killingsworth-St-Portland-OR-97211/2092917969_zpid/
+1412 NE Junior St,Portland,OR,97211,769500,2888.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1412-NE-Junior-St-Portland-OR-97211/2094459830_zpid/
+2620 NE Lombard St,Portland,OR,97211,699000,2992.0,8.0,4.0,80,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2620-NE-Lombard-St-Portland-OR-97211/2096697658_zpid/
+5515 NE Cleveland Ave,Portland,OR,97211,1150000,4752.0,5.0,5.0,692,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5515-NE-Cleveland-Ave-Portland-OR-97211/2111958794_zpid/
+5914 NE 34th Ave,Portland,OR,97211,1100000,3500.0,5.0,3.0,343,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/5914-NE-34th-Ave-Portland-OR-97211/53992925_zpid/
+NE Lombard St,Portland or,OR,97211,216509,6098.0,NA,NA,315,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/NE-Lombard-St-Portland-Or-OR-97211/2094658717_zpid/
+1060 NE Stafford St,Portland,OR,97211,714900,2969.0,4.0,3.0,38,New Construction,http://www.zillow.com/homes/for_sale//homedetails/1060-NE-Stafford-St-Portland-OR-97211/2091518985_zpid/
+3103 NE Dekum St,Portland,OR,97211,585000,2848.0,5.0,3.0,50,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3103-NE-Dekum-St-Portland-OR-97211/53963314_zpid/
+7205 NE M L King Blvd,Portland,OR,97211,649000,10018.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/7205-NE-M-L-King-Blvd-Portland-OR-97211/80930422_zpid/
+NE Cleveland Ave,Portland,OR,97211,NA,1586.0,3.0,1.5,194,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447699_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE 29th Ave,Portland,OR,97211,NA,1232.0,3.0,2.0,125,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240255375_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE Buffalo St,Portland,OR,97211,NA,1020.0,3.0,1.0,195,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241551421_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE Dekum St,Portland,OR,97211,NA,880.0,3.0,1.5,106,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243596285_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE Ainsworth St,Portland,OR,97211,NA,1288.0,2.0,1.0,460,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447694_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE 9th Ave,Portland,OR,97211,NA,3040.0,4.0,2.5,330,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447695_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE Liberty St,Portland,OR,97211,NA,2168.0,4.0,3.0,438,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447701_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2829 SE Belmont St,Portland,OR,97214,275000,610.0,1.0,1.0,2,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2829-SE-Belmont-St-Portland-OR-97214/2110514208_zpid/
+3504 SE Alder St,Portland,OR,97214,389900,1716.0,3.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3504-SE-Alder-St-Portland-OR-97214/53847753_zpid/
+3429 SE Grant Ct,Portland,OR,97214,535000,2025.0,4.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3429-SE-Grant-Ct-Portland-OR-97214/53926395_zpid/
+1 SE Washington St,Portland,OR,97214,725000,NA,4.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-SE-Washington-St-Portland-OR-97214/2090987679_zpid/
+3463 SE Ankeny St,Portland,OR,97214,1620000,4578.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3463-SE-Ankeny-St-Portland-OR-97214/53900082_zpid/
+3817-3819 SE Washington St,PORTLAND,OR,97214,725000,3168.0,4.0,2.0,1,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3817-3819-SE-Washington-St-Portland-OR-97214/53821297_zpid/
+714 SE 35th Ave,Portland,OR,97214,424900,2004.0,3.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/714-SE-35th-Ave-Portland-OR-97214/53847754_zpid/
+2829 SE Belmont St APT 308,Portland,OR,97214,275000,610.0,1.0,1.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2829-SE-Belmont-St-APT-308-Portland-OR-97214/68352704_zpid/
+305 SE 41st Ave,Portland,OR,97214,749000,3503.0,4.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-SE-41st-Ave-Portland-OR-97214/53900262_zpid/
+3815 SE Yamhill St,Portland,OR,97214,544900,2176.0,3.0,2.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3815-SE-Yamhill-St-Portland-OR-97214/53821339_zpid/
+1945 SE 25th Ave,Portland,OR,97214,792000,2576.0,3.0,3.0,6,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1945-SE-25th-Ave-Portland-OR-97214/53878085_zpid/
+2125 SE Oak St,Portland,OR,97214,925000,3756.0,6.0,4.0,7,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2125-SE-Oak-St-Portland-OR-97214/53821368_zpid/
+727 SE 33rd Pl,Portland,OR,97214,367000,909.0,1.0,1.0,4,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/727-SE-33rd-Pl-Portland-OR-97214/2139375887_zpid/
+3636 SE Morrison St,Portland,OR,97214,552000,1584.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3636-SE-Morrison-St-Portland-OR-97214/53964289_zpid/
+1414 SE 36th Ave,Portland,OR,97214,475000,786.0,2.0,1.0,20,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1414-SE-36th-Ave-Portland-OR-97214/53964145_zpid/
+2426 SE Market St,Portland,OR,97214,719000,3074.0,3.0,2.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2426-SE-Market-St-Portland-OR-97214/53878063_zpid/
+3437 SE Ankeny St,Portland,OR,97214,1275000,4536.0,5.0,5.0,12,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3437-SE-Ankeny-St-Portland-OR-97214/53900084_zpid/
+1914 E Burnside St,Portland,OR,97214,1175000,4299.0,3.0,5.0,19,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1914-E-Burnside-St-Portland-OR-97214/80928212_zpid/
+1805 SE Madison St # 201,Portland,OR,97214,495000,1104.0,2.0,2.0,13,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-SE-Madison-St-201-Portland-OR-97214/2091181842_zpid/
+417 SE 15th Ave,Portland,OR,97214,825000,3125.0,2.0,1.0,29,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/417-SE-15th-Ave-Portland-OR-97214/2091415748_zpid/
+1733 SE Morrison St,Portland,OR,97214,2195000,7346.0,0.0,NA,14,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1733-SE-Morrison-St-Portland-OR-97214/2091189096_zpid/
+1805 SE Madison St # 304,Portland,OR,97214,330000,589.0,1.0,1.0,24,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-SE-Madison-St-304-Portland-OR-97214/2091333658_zpid/
+2107 SE Yamhill St,Portland,OR,97214,770000,2600.0,5.0,3.0,25,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2107-SE-Yamhill-St-Portland-OR-97214/53970006_zpid/
+3138 SE Belmont St APT 3,Portland,OR,97214,650000,1729.0,3.0,3.0,19,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/3138-SE-Belmont-St-APT-3-Portland-OR-97214/2099758324_zpid/
+1805 SE Madison St # 301,Portland,OR,97214,330000,589.0,1.0,1.0,13,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-SE-Madison-St-301-Portland-OR-97214/2091181843_zpid/
+2123 SE 12th Ave,Portland,OR,97214,175000,2500.0,NA,NA,223,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/2123-SE-12th-Ave-Portland-OR-97214/53960003_zpid/
+2424 SE Harrison St,Portland,OR,97214,585000,3696.0,5.0,2.0,287,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2424-SE-Harrison-St-Portland-OR-97214/53917813_zpid/
+2146 SE Belmont St,Portland,OR,97214,570000,3646.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2146-SE-Belmont-St-Portland-OR-97214/53969998_zpid/
+2263 SE 41st Ave,Portland,OR,97214,610000,2344.0,4.0,3.0,95,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2263-SE-41st-Ave-Portland-OR-97214/53882787_zpid/
+130 SE 31st Ave APT 6,Portland,OR,97214,275000,716.0,1.0,2.0,1155,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/130-SE-31st-Ave-APT-6-Portland-OR-97214/70515589_zpid/
+28 SE 28th Ave,Portland,OR,97214,550000,1142.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-SE-28th-Ave-Portland-OR-97214/2116361777_zpid/
+816 SE Cesar E Chavez Blvd # 2,Portland,OR,97214,212900,478.0,1.0,1.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-2-Portland-OR-97214/2091563943_zpid/
+2026 SE 35th Pl,Portland,OR,97214,550000,2800.0,6.0,3.0,83,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2026-SE-35th-Pl-Portland-OR-97214/53926261_zpid/
+1500 SE Hawthorne Blvd,Portland,OR,97214,2000000,7158.0,0.0,NA,152,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1500-SE-Hawthorne-Blvd-Portland-OR-97214/53897002_zpid/
+2414 SE 30TH Ave,PORTLAND,OR,97214,550000,3227.0,4.0,2.0,74,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2414-SE-30TH-Ave-Portland-OR-97214/53997602_zpid/
+3328 E Burnside St,Portland,OR,97214,575000,2354.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3328-E-Burnside-St-Portland-OR-97214/53900096_zpid/
+120 SE 28th Ave,Portland,OR,97214,850000,1941.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/120-SE-28th-Ave-Portland-OR-97214/2091651074_zpid/
+3819 SE Stephens St,Portland,OR,97214,949950,3246.0,6.0,4.0,31,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3819-SE-Stephens-St-Portland-OR-97214/53903717_zpid/
+1720 SE Lavender St,Portland,OR,97214,675000,2434.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1720-SE-Lavender-St-Portland-OR-97214/53897315_zpid/
+1815 SE 30th Ave,Portland,OR,97214,799000,3242.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1815-SE-30th-Ave-Portland-OR-97214/53832596_zpid/
+2237 SE Oak St,Portland,OR,97214,850000,2633.0,5.0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2237-SE-Oak-St-Portland-OR-97214/2135955839_zpid/
+1033 SE 16th Ave,Portland,OR,97214,675000,2737.0,0.0,NA,53,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1033-SE-16th-Ave-Portland-OR-97214/2091672536_zpid/
+816 SE Cesar E Chavez Blvd # 1,Portland,OR,97214,221900,502.0,1.0,1.0,42,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-1-Portland-OR-97214/2091582434_zpid/
+780 SE 27th Ave,Portland,OR,97214,795000,2602.0,4.0,4.0,410,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/780-SE-27th-Ave-Portland-OR-97214/2097187319_zpid/
+1707 SE 35th Ave,Portland,OR,97214,780000,2466.0,4.0,2.0,63,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1707-SE-35th-Ave-Portland-OR-97214/53945202_zpid/
+3536 E Burnside St,Portland,OR,97214,1348000,5219.0,6.0,4.0,560,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3536-E-Burnside-St-Portland-OR-97214/53900075_zpid/
+816 SE Cesar E Chavez Blvd # 6,Portland,OR,97214,260900,607.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-6-Portland-OR-97214/2091562519_zpid/
+1232 SE Salmon St,Portland,OR,97214,749500,1942.0,3.0,NA,165,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1232-SE-Salmon-St-Portland-OR-97214/2092844750_zpid/
+816 SE Cesar E Chavez Blvd 2 # 2,Portland,OR,97214,212900,478.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-2-2-Portland-OR-97214/2091557711_zpid/
+2835 SE Yamhill St,Portland,OR,97214,950000,2644.0,4.0,4.0,91,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2835-SE-Yamhill-St-Portland-OR-97214/53875773_zpid/
+816 SE Cesar E Chavez Blvd # 5,Portland,OR,97214,254900,588.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-5-Portland-OR-97214/2091562570_zpid/
+816 SE Cesar E Chavez Blvd # 3,Portland,OR,97214,244900,559.0,1.0,1.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-3-Portland-OR-97214/2091563729_zpid/
+1540 SE 35th Pl,Portland,OR,97214,769900,NA,5.0,4.0,175,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1540-SE-35th-Pl-Portland-OR-97214/53830207_zpid/
+816 SE Cesar E Chavez Blvd 3 # 3,Portland,OR,97214,244900,559.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-3-3-Portland-OR-97214/2091557710_zpid/
+816 SE Cesar E Chavez Blvd # 4,Portland,OR,97214,251900,580.0,1.0,1.0,73,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-4-Portland-OR-97214/2091831601_zpid/
+816 SE Cesar E Chavez Blvd 6 # 6,Portland,OR,97214,260900,607.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-6-6-Portland-OR-97214/2091557712_zpid/
+816 SE Cesar E Chavez Blvd 1 # 1,Portland,OR,97214,221900,502.0,1.0,1.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-1-1-Portland-OR-97214/2091571302_zpid/
+2416 SE Morrison St,Portland,OR,97214,1529900,4288.0,0.0,NA,280,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2416-SE-Morrison-St-Portland-OR-97214/2094225219_zpid/
+2422 SE Morrison St,Portland,OR,97214,764900,2144.0,0.0,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2422-SE-Morrison-St-Portland-OR-97214/2094224293_zpid/
+816 SE Cesar E Chavez Blvd 5 # 5,Portland,OR,97214,254900,588.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-5-5-Portland-OR-97214/2091557714_zpid/
+816 SE Cesar E Chavez Blvd 4 # 4,Portland,OR,97214,251900,580.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-4-4-Portland-OR-97214/2091557713_zpid/
+3325 SE Stark St,Portland,OR,97214,835000,2600.0,4.0,3.0,274,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/3325-SE-Stark-St-Portland-OR-97214/53900154_zpid/
+SE 35th Pl,Portland,OR,97214,NA,2442.0,5.0,2.0,321,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447787_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE 35th Pl,Portland,OR,97214,NA,2800.0,5.0,2.0,160,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242007338_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE Belmont St,Portland,OR,97214,NA,3196.0,5.0,3.0,151,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447785_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE Ankeny St,Portland,OR,97214,NA,2400.0,4.0,1.5,194,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447710_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE Harrison St,Portland,OR,97214,NA,1560.0,4.0,1.0,190,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241561068_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+3127 NE 33rd Ave,Portland,OR,97212,625000,3941.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3127-NE-33rd-Ave-Portland-OR-97212/53889200_zpid/
+1455 NE Shaver St,Portland,OR,97212,649000,1911.0,5.0,3.0,17,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1455-NE-Shaver-St-Portland-OR-97212/2095162489_zpid/
+4007 NE 15th Ave,Portland,OR,97212,1300000,3835.0,4.0,3.0,17,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4007-NE-15th-Ave-Portland-OR-97212/2095169706_zpid/
+2644 NE 32nd Pl,Portland,OR,97212,495000,2188.0,3.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2644-NE-32nd-Pl-Portland-OR-97212/53903563_zpid/
+341 NE Morris St # 8,Portland,OR,97212,415000,1280.0,2.0,3.0,5,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/341-NE-Morris-St-8-Portland-OR-97212/125794028_zpid/
+909 NE Brazee St APT 15,Portland,OR,97212,339000,904.0,2.0,1.0,7,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/909-NE-Brazee-St-APT-15-Portland-OR-97212/53820184_zpid/
+2936 NE 19th Ave,Portland,OR,97212,655000,3191.0,3.0,2.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2936-NE-19th-Ave-Portland-OR-97212/53886113_zpid/
+3633 NE Merges Dr,Portland,OR,97212,1000000,2702.0,3.0,3.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3633-NE-Merges-Dr-Portland-OR-97212/53908864_zpid/
+4071 NE 22nd Ave,Portland,OR,97212,599000,2162.0,4.0,2.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4071-NE-22nd-Ave-Portland-OR-97212/53812253_zpid/
+1404 NE Hancock St,Portland,OR,97212,2100000,7804.0,9.0,5.0,14,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1404-NE-Hancock-St-Portland-OR-97212/53881430_zpid/
+1805 NE 8th Ave,Portland,OR,97212,1350000,3842.0,6.0,6.0,12,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-NE-8th-Ave-Portland-OR-97212/53881393_zpid/
+2344 NE 38th Ave,Portland,OR,97212,775000,2205.0,4.0,3.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2344-NE-38th-Ave-Portland-OR-97212/53948763_zpid/
+2826 NE Brazee St,Portland,OR,97212,939000,2638.0,4.0,3.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2826-NE-Brazee-St-Portland-OR-97212/53851972_zpid/
+636 NE Knott St,Portland,OR,97212,495000,1285.0,2.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/636-NE-Knott-St-Portland-OR-97212/2091860254_zpid/
+2443 NE 19th Ave,Portland,OR,97212,925000,2940.0,2.0,3.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2443-NE-19th-Ave-Portland-OR-97212/53886207_zpid/
+1903 NE Alameda St,Portland,OR,97212,759000,3024.0,4.0,3.0,14,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1903-NE-Alameda-St-Portland-OR-97212/53812279_zpid/
+3111 NE 7th Ave # 4,Portland,OR,97212,529000,1602.0,2.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/3111-NE-7th-Ave-4-Portland-OR-97212/72259933_zpid/
+2204 NE 7th Ave,Portland,OR,97212,795000,3930.0,0.0,NA,20,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2204-NE-7th-Ave-Portland-OR-97212/2113097187_zpid/
+1927 NE 16th Ave,Portland,OR,97212,1299000,4201.0,6.0,5.0,24,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/1927-NE-16th-Ave-Portland-OR-97212/53881445_zpid/
+3233 NE Thompson St,Portland,OR,97212,NA,4865.0,5.0,4.0,200,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3233-NE-Thompson-St-Portland-OR-97212/53864090_zpid/
+3328 NE Schuyler St,Portland,OR,97212,760000,3106.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3328-NE-Schuyler-St-Portland-OR-97212/53875516_zpid/
+3144 NE 15th Ave,Portland,OR,97212,819900,3322.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3144-NE-15th-Ave-Portland-OR-97212/53886557_zpid/
+3959 NE 7th Ave,Portland,OR,97212,619000,2221.0,4.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3959-NE-7th-Ave-Portland-OR-97212/2091670475_zpid/
+NE Rodney Ave,Portland,OR,97212,199500,NA,NA,NA,139,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/NE-Rodney-Ave-Portland-OR-97212/126249605_zpid/
+3817 NE 11th Ave,Portland,OR,97212,490000,1724.0,2.0,2.5,147,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/3817-NE-11th-Ave-Portland-OR-97212/53902975_zpid/
+2827 NE 11th Ave,Portland,OR,97212,887000,2867.0,3.0,1.5,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2827-NE-11th-Ave-Portland-OR-97212/53887121_zpid/
+2611 NE 28th Ave,Portland,OR,97212,599000,1680.0,4.0,2.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/2611-NE-28th-Ave-Portland-OR-97212/53852619_zpid/
+4101 NE Wistaria Dr,Portland,OR,97212,759900,3231.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4101-NE-Wistaria-Dr-Portland-OR-97212/53821880_zpid/
+2614 NE 32nd Pl,Portland,OR,97212,1199999,3396.0,4.0,3.0,273,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2614-NE-32nd-Pl-Portland-OR-97212/53838736_zpid/
+623 NE Sacramento St,Portland,OR,97212,595000,2659.0,3.0,2.0,146,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/623-NE-Sacramento-St-Portland-OR-97212/53812526_zpid/
+1943 NE Tillamook St,Portland,OR,97212,2100000,6000.0,4.0,2.0,110,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1943-NE-Tillamook-St-Portland-OR-97212/2092187641_zpid/
+2650 NE Alameda St,Portland,OR,97212,1075000,5021.0,5.0,4.0,35,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2650-NE-Alameda-St-Portland-OR-97212/53811703_zpid/
+2948 NE 24th Ave,Portland,OR,97212,639000,2440.0,3.0,1.1,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2948-NE-24th-Ave-Portland-OR-97212/53959448_zpid/
+NE Edgehill Pl,PORTLAND,OR,97212,350000,5527.0,NA,NA,216,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/NE-Edgehill-Pl-Portland-OR-97212/119258822_zpid/
+3250 NE Us Grant Pl,Portland,OR,97212,1078000,3380.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3250-NE-Us-Grant-Pl-Portland-OR-97212/53864195_zpid/
+1809 NE 28th Ave,Portland,OR,97212,1099000,3980.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1809-NE-28th-Ave-Portland-OR-97212/53871233_zpid/
+16 NE Shaver St UNIT 201,Portland,OR,97212,550000,1320.0,3.0,2.0,42,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-NE-Shaver-St-UNIT-201-Portland-OR-97212/88962189_zpid/
+2123 NE 21st Ave,Portland,OR,97212,1150000,4510.0,5.0,5.0,155,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2123-NE-21st-Ave-Portland-OR-97212/53885953_zpid/
+3116 NE 20th Ave,Portland,OR,97212,1375000,3759.0,5.0,4.5,214,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3116-NE-20th-Ave-Portland-OR-97212/2093417318_zpid/
+63 NE Morris St,Portland,OR,97212,505000,1640.0,4.0,2.0,134,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/63-NE-Morris-St-Portland-OR-97212/53987882_zpid/
+107 NE Fremont St,Portland,OR,97212,565000,2452.0,0.0,NA,139,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/107-NE-Fremont-St-Portland-OR-97212/84121916_zpid/
+616 NE Russell St,Portland,OR,97212,575000,1685.0,3.0,2.0,690,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/616-NE-Russell-St-Portland-OR-97212/53812560_zpid/
+2416 NE Regents Dr,Portland,OR,97212,1450000,4765.0,4.0,4.0,130,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2416-NE-Regents-Dr-Portland-OR-97212/2096709916_zpid/
+2637 NE 7th Ave # 3,Portland,OR,97212,599999,1286.0,2.0,3.0,146,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/2637-NE-7th-Ave-3-Portland-OR-97212/79893392_zpid/
+2607 NE 14th Ave,Portland,OR,97212,1300000,3800.0,4.0,4.0,359,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/2607-NE-14th-Ave-Portland-OR-97212/53886838_zpid/
+3019 NE M L King Blvd,Portland,OR,97212,475000,2613.0,NA,NA,105,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3019-NE-M-L-King-Blvd-Portland-OR-97212/53987913_zpid/
+1107 NE Knott St,Portland,OR,97212,990000,2745.0,4.0,3.0,239,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/1107-NE-Knott-St-Portland-OR-97212/53887033_zpid/
+NE Garfield Ave # 3937,Portland,OR,97212,NA,1424.0,4.0,2.0,120,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243382805_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE 13th Ave,Portland,OR,97212,NA,2343.0,NA,3.5,132,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243162676_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+NE 26th Ave,Portland,OR,97212,NA,1290.0,2.0,1.0,105,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243604858_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+2829 SE Belmont St,Portland,OR,97214,275000,610.0,1.0,1.0,2,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2829-SE-Belmont-St-Portland-OR-97214/2110514208_zpid/
+3504 SE Alder St,Portland,OR,97214,389900,1716.0,3.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3504-SE-Alder-St-Portland-OR-97214/53847753_zpid/
+3429 SE Grant Ct,Portland,OR,97214,535000,2025.0,4.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3429-SE-Grant-Ct-Portland-OR-97214/53926395_zpid/
+1 SE Washington St,Portland,OR,97214,725000,NA,4.0,2.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-SE-Washington-St-Portland-OR-97214/2090987679_zpid/
+3463 SE Ankeny St,Portland,OR,97214,1620000,4578.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3463-SE-Ankeny-St-Portland-OR-97214/53900082_zpid/
+3817-3819 SE Washington St,PORTLAND,OR,97214,725000,3168.0,4.0,2.0,1,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/3817-3819-SE-Washington-St-Portland-OR-97214/53821297_zpid/
+714 SE 35th Ave,Portland,OR,97214,424900,2004.0,3.0,1.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/714-SE-35th-Ave-Portland-OR-97214/53847754_zpid/
+2829 SE Belmont St APT 308,Portland,OR,97214,275000,610.0,1.0,1.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2829-SE-Belmont-St-APT-308-Portland-OR-97214/68352704_zpid/
+305 SE 41st Ave,Portland,OR,97214,749000,3503.0,4.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-SE-41st-Ave-Portland-OR-97214/53900262_zpid/
+3815 SE Yamhill St,Portland,OR,97214,544900,2176.0,3.0,2.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3815-SE-Yamhill-St-Portland-OR-97214/53821339_zpid/
+1945 SE 25th Ave,Portland,OR,97214,792000,2576.0,3.0,3.0,6,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1945-SE-25th-Ave-Portland-OR-97214/53878085_zpid/
+2125 SE Oak St,Portland,OR,97214,925000,3756.0,6.0,4.0,7,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2125-SE-Oak-St-Portland-OR-97214/53821368_zpid/
+727 SE 33rd Pl,Portland,OR,97214,367000,909.0,1.0,1.0,4,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/727-SE-33rd-Pl-Portland-OR-97214/2139375887_zpid/
+3636 SE Morrison St,Portland,OR,97214,552000,1584.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3636-SE-Morrison-St-Portland-OR-97214/53964289_zpid/
+1414 SE 36th Ave,Portland,OR,97214,475000,786.0,2.0,1.0,20,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1414-SE-36th-Ave-Portland-OR-97214/53964145_zpid/
+2426 SE Market St,Portland,OR,97214,719000,3074.0,3.0,2.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2426-SE-Market-St-Portland-OR-97214/53878063_zpid/
+3437 SE Ankeny St,Portland,OR,97214,1275000,4536.0,5.0,5.0,12,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3437-SE-Ankeny-St-Portland-OR-97214/53900084_zpid/
+1914 E Burnside St,Portland,OR,97214,1175000,4299.0,3.0,5.0,19,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1914-E-Burnside-St-Portland-OR-97214/80928212_zpid/
+1805 SE Madison St # 201,Portland,OR,97214,495000,1104.0,2.0,2.0,13,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-SE-Madison-St-201-Portland-OR-97214/2091181842_zpid/
+417 SE 15th Ave,Portland,OR,97214,825000,3125.0,2.0,1.0,29,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/417-SE-15th-Ave-Portland-OR-97214/2091415748_zpid/
+1733 SE Morrison St,Portland,OR,97214,2195000,7346.0,0.0,NA,14,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1733-SE-Morrison-St-Portland-OR-97214/2091189096_zpid/
+1805 SE Madison St # 304,Portland,OR,97214,330000,589.0,1.0,1.0,24,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-SE-Madison-St-304-Portland-OR-97214/2091333658_zpid/
+2107 SE Yamhill St,Portland,OR,97214,770000,2600.0,5.0,3.0,25,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2107-SE-Yamhill-St-Portland-OR-97214/53970006_zpid/
+3138 SE Belmont St APT 3,Portland,OR,97214,650000,1729.0,3.0,3.0,19,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/3138-SE-Belmont-St-APT-3-Portland-OR-97214/2099758324_zpid/
+1805 SE Madison St # 301,Portland,OR,97214,330000,589.0,1.0,1.0,13,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1805-SE-Madison-St-301-Portland-OR-97214/2091181843_zpid/
+2123 SE 12th Ave,Portland,OR,97214,175000,2500.0,NA,NA,223,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/2123-SE-12th-Ave-Portland-OR-97214/53960003_zpid/
+2424 SE Harrison St,Portland,OR,97214,585000,3696.0,5.0,2.0,287,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2424-SE-Harrison-St-Portland-OR-97214/53917813_zpid/
+2146 SE Belmont St,Portland,OR,97214,570000,3646.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2146-SE-Belmont-St-Portland-OR-97214/53969998_zpid/
+2263 SE 41st Ave,Portland,OR,97214,610000,2344.0,4.0,3.0,95,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2263-SE-41st-Ave-Portland-OR-97214/53882787_zpid/
+130 SE 31st Ave APT 6,Portland,OR,97214,275000,716.0,1.0,2.0,1155,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/130-SE-31st-Ave-APT-6-Portland-OR-97214/70515589_zpid/
+28 SE 28th Ave,Portland,OR,97214,550000,1142.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-SE-28th-Ave-Portland-OR-97214/2116361777_zpid/
+816 SE Cesar E Chavez Blvd # 2,Portland,OR,97214,212900,478.0,1.0,1.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-2-Portland-OR-97214/2091563943_zpid/
+2026 SE 35th Pl,Portland,OR,97214,550000,2800.0,6.0,3.0,83,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2026-SE-35th-Pl-Portland-OR-97214/53926261_zpid/
+1500 SE Hawthorne Blvd,Portland,OR,97214,2000000,7158.0,0.0,NA,152,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1500-SE-Hawthorne-Blvd-Portland-OR-97214/53897002_zpid/
+2414 SE 30TH Ave,PORTLAND,OR,97214,550000,3227.0,4.0,2.0,74,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2414-SE-30TH-Ave-Portland-OR-97214/53997602_zpid/
+3328 E Burnside St,Portland,OR,97214,575000,2354.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3328-E-Burnside-St-Portland-OR-97214/53900096_zpid/
+120 SE 28th Ave,Portland,OR,97214,850000,1941.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/120-SE-28th-Ave-Portland-OR-97214/2091651074_zpid/
+3819 SE Stephens St,Portland,OR,97214,949950,3246.0,6.0,4.0,31,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3819-SE-Stephens-St-Portland-OR-97214/53903717_zpid/
+1720 SE Lavender St,Portland,OR,97214,675000,2434.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1720-SE-Lavender-St-Portland-OR-97214/53897315_zpid/
+1815 SE 30th Ave,Portland,OR,97214,799000,3242.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1815-SE-30th-Ave-Portland-OR-97214/53832596_zpid/
+2237 SE Oak St,Portland,OR,97214,850000,2633.0,5.0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2237-SE-Oak-St-Portland-OR-97214/2135955839_zpid/
+1033 SE 16th Ave,Portland,OR,97214,675000,2737.0,0.0,NA,53,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1033-SE-16th-Ave-Portland-OR-97214/2091672536_zpid/
+816 SE Cesar E Chavez Blvd # 1,Portland,OR,97214,221900,502.0,1.0,1.0,42,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-1-Portland-OR-97214/2091582434_zpid/
+780 SE 27th Ave,Portland,OR,97214,795000,2602.0,4.0,4.0,410,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/780-SE-27th-Ave-Portland-OR-97214/2097187319_zpid/
+1707 SE 35th Ave,Portland,OR,97214,780000,2466.0,4.0,2.0,63,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1707-SE-35th-Ave-Portland-OR-97214/53945202_zpid/
+3536 E Burnside St,Portland,OR,97214,1348000,5219.0,6.0,4.0,560,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3536-E-Burnside-St-Portland-OR-97214/53900075_zpid/
+816 SE Cesar E Chavez Blvd # 6,Portland,OR,97214,260900,607.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-6-Portland-OR-97214/2091562519_zpid/
+1232 SE Salmon St,Portland,OR,97214,749500,1942.0,3.0,NA,165,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1232-SE-Salmon-St-Portland-OR-97214/2092844750_zpid/
+816 SE Cesar E Chavez Blvd 2 # 2,Portland,OR,97214,212900,478.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-2-2-Portland-OR-97214/2091557711_zpid/
+2835 SE Yamhill St,Portland,OR,97214,950000,2644.0,4.0,4.0,91,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2835-SE-Yamhill-St-Portland-OR-97214/53875773_zpid/
+816 SE Cesar E Chavez Blvd # 5,Portland,OR,97214,254900,588.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-5-Portland-OR-97214/2091562570_zpid/
+816 SE Cesar E Chavez Blvd # 3,Portland,OR,97214,244900,559.0,1.0,1.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-3-Portland-OR-97214/2091563729_zpid/
+1540 SE 35th Pl,Portland,OR,97214,769900,NA,5.0,4.0,175,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1540-SE-35th-Pl-Portland-OR-97214/53830207_zpid/
+816 SE Cesar E Chavez Blvd 3 # 3,Portland,OR,97214,244900,559.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-3-3-Portland-OR-97214/2091557710_zpid/
+816 SE Cesar E Chavez Blvd # 4,Portland,OR,97214,251900,580.0,1.0,1.0,73,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-4-Portland-OR-97214/2091831601_zpid/
+816 SE Cesar E Chavez Blvd 6 # 6,Portland,OR,97214,260900,607.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-6-6-Portland-OR-97214/2091557712_zpid/
+816 SE Cesar E Chavez Blvd 1 # 1,Portland,OR,97214,221900,502.0,1.0,1.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-1-1-Portland-OR-97214/2091571302_zpid/
+2416 SE Morrison St,Portland,OR,97214,1529900,4288.0,0.0,NA,280,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2416-SE-Morrison-St-Portland-OR-97214/2094225219_zpid/
+2422 SE Morrison St,Portland,OR,97214,764900,2144.0,0.0,NA,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2422-SE-Morrison-St-Portland-OR-97214/2094224293_zpid/
+816 SE Cesar E Chavez Blvd 5 # 5,Portland,OR,97214,254900,588.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-5-5-Portland-OR-97214/2091557714_zpid/
+816 SE Cesar E Chavez Blvd 4 # 4,Portland,OR,97214,251900,580.0,1.0,1.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/816-SE-Cesar-E-Chavez-Blvd-4-4-Portland-OR-97214/2091557713_zpid/
+3325 SE Stark St,Portland,OR,97214,835000,2600.0,4.0,3.0,274,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/3325-SE-Stark-St-Portland-OR-97214/53900154_zpid/
+SE 35th Pl,Portland,OR,97214,NA,2442.0,5.0,2.0,321,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447787_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE 35th Pl,Portland,OR,97214,NA,2800.0,5.0,2.0,160,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242007338_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE Belmont St,Portland,OR,97214,NA,3196.0,5.0,3.0,151,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447785_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE Ankeny St,Portland,OR,97214,NA,2400.0,4.0,1.5,194,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447710_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SE Harrison St,Portland,OR,97214,NA,1560.0,4.0,1.0,190,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241561068_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1915 NW 25th Ave,Portland,OR,97210,539000,1100.0,2.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1915-NW-25th-Ave-Portland-OR-97210/53988914_zpid/
+413 NW Uptown Ter APT 2B,Portland,OR,97210,274900,637.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/413-NW-Uptown-Ter-APT-2B-Portland-OR-97210/65064573_zpid/
+3306 NW Thurman St,Portland,OR,97210,975000,3442.0,4.0,3.0,179,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3306-NW-Thurman-St-Portland-OR-97210/53987248_zpid/
+2268 NW Kearney St,Portland,OR,97210,1059000,2707.0,3.0,3.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2268-NW-Kearney-St-Portland-OR-97210/2096849035_zpid/
+306 NW Skyline Ln,Portland,OR,97210,1788000,4212.0,5.0,4.0,8,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/306-NW-Skyline-Ln-Portland-OR-97210/119259660_zpid/
+330 NW Uptown Ter APT 1A,Portland,OR,97210,495000,1028.0,2.0,2.0,3,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/330-NW-Uptown-Ter-APT-1A-Portland-OR-97210/65063163_zpid/
+2142 NW Irving St,Portland,OR,97210,745000,1760.0,5.0,3.0,5,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/2142-NW-Irving-St-Portland-OR-97210/53895373_zpid/
+2350 NW Savier St UNIT 400,Portland,OR,97210,1085000,1710.0,2.0,2.0,8,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2350-NW-Savier-St-UNIT-400-Portland-OR-97210/2112622800_zpid/
+2350 NW Savier St # B320,Portland,OR,97210,450000,811.0,0.0,NA,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2350-NW-Savier-St-B320-Portland-OR-97210/72259987_zpid/
+3245 NW Thurman St,Portland,OR,97210,1375000,3910.0,3.0,3.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3245-NW-Thurman-St-Portland-OR-97210/53987256_zpid/
+2825 NW Upshur St APT B,Portland,OR,97210,329000,804.0,1.0,1.0,18,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2825-NW-Upshur-St-APT-B-Portland-OR-97210/53922363_zpid/
+2335 NW Raleigh St UNIT 215,Portland,OR,97210,379000,708.0,0.0,1.0,10,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2335-NW-Raleigh-St-UNIT-215-Portland-OR-97210/72258111_zpid/
+2555 NW Savier St APT 1,Portland,OR,97210,501900,852.0,2.0,1.0,21,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2555-NW-Savier-St-APT-1-Portland-OR-97210/2091304499_zpid/
+2335 NW Raleigh St UNIT 331,Portland,OR,97210,455000,809.0,1.0,1.0,18,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2335-NW-Raleigh-St-UNIT-331-Portland-OR-97210/71544122_zpid/
+6625 W Burnside Rd APT 241,Portland,OR,97210,219900,707.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/6625-W-Burnside-Rd-APT-241-Portland-OR-97210/48573256_zpid/
+6625 W Burnside Rd APT 221,Portland,OR,97210,339000,1097.0,2.0,2.0,20,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/6625-W-Burnside-Rd-APT-221-Portland-OR-97210/48573238_zpid/
+2351 NW Westover Rd UNIT 703,Portland,OR,97210,665000,1113.0,2.0,2.0,20,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2351-NW-Westover-Rd-UNIT-703-Portland-OR-97210/82341322_zpid/
+2127 NW Irving St APT 302,Portland,OR,97210,439000,1424.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2127-NW-Irving-St-APT-302-Portland-OR-97210/53885437_zpid/
+0 NW Barnes Rd,Portland,OR,97210,295000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-NW-Barnes-Rd-Portland-OR-97210/2117634705_zpid/
+2643 NW Saint Helens Rd,Portland,OR,97210,335000,1240.0,3.0,1.0,265,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2643-NW-Saint-Helens-Rd-Portland-OR-97210/53993313_zpid/
+2860 NW Verde Vista Ter,Portland,OR,97210,870000,3150.0,3.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2860-NW-Verde-Vista-Ter-Portland-OR-97210/53895130_zpid/
+2257 NW Irving St,Portland,OR,97210,499000,1403.0,3.0,1.0,263,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2257-NW-Irving-St-Portland-OR-97210/2094013474_zpid/
+2109 NW Irving St UNIT 308,Portland,OR,97210,199000,399.0,0.0,1.0,49,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2109-NW-Irving-St-UNIT-308-Portland-OR-97210/72257819_zpid/
+2924 NW Savier St,Portland,OR,97210,875000,3088.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2924-NW-Savier-St-Portland-OR-97210/2092833064_zpid/
+4534 NW Barnes Rd,Portland,OR,97210,369000,1040.0,2.0,2.0,170,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4534-NW-Barnes-Rd-Portland-OR-97210/53852577_zpid/
+2566 NW Marshall St APT A3,Portland,OR,97210,419500,1015.0,1.0,1.0,124,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2566-NW-Marshall-St-APT-A3-Portland-OR-97210/53908738_zpid/
+2780 NW Imperial Ter,Portland,OR,97210,799900,2576.0,3.0,3.0,143,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2780-NW-Imperial-Ter-Portland-OR-97210/53895053_zpid/
+580 NW Alpine Ter,Portland,OR,97210,989000,3267.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/580-NW-Alpine-Ter-Portland-OR-97210/53895234_zpid/
+2874 NW Luray Ter,Portland,OR,97210,1069900,3682.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2874-NW-Luray-Ter-Portland-OR-97210/53984579_zpid/
+2584 NW Pettygrove St,Portland,OR,97210,1750000,5010.0,5.0,4.0,60,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2584-NW-Pettygrove-St-Portland-OR-97210/53872164_zpid/
+NW Thurman St,Portland,OR,97210,229000,10018.0,NA,NA,116,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/NW-Thurman-St-Portland-OR-97210/126248392_zpid/
+2387 NW Northrup St APT 2,Portland,OR,97210,374900,921.0,1.0,1.0,143,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2387-NW-Northrup-St-APT-2-Portland-OR-97210/53872744_zpid/
+790 NW Westover Sq # 790,Portland,OR,97210,569000,1143.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/790-NW-Westover-Sq-790-Portland-OR-97210/2146550063_zpid/
+825 NW 22nd Ave,Portland,OR,97210,1119000,4262.0,4.0,3.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/825-NW-22nd-Ave-Portland-OR-97210/53895276_zpid/
+743 NW Macleay Blvd,Portland,OR,97210,275000,9147.0,NA,NA,122,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/743-NW-Macleay-Blvd-Portland-OR-97210/119264108_zpid/
+2741 NW Westover Rd,Portland,OR,97210,1595000,3862.0,4.0,4.0,80,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2741-NW-Westover-Rd-Portland-OR-97210/53928697_zpid/
+0 NW Fairfax Ter # 5,Portland,OR,97210,425000,10454.0,NA,NA,61,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-NW-Fairfax-Ter-5-Portland-OR-97210/2091717703_zpid/
+2921 NW Fairfax Ter,Portland,OR,97210,1375000,3998.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2921-NW-Fairfax-Ter-Portland-OR-97210/53993368_zpid/
+NW Macleay Blvd,PORTLAND,OR,97210,295000,7840.0,NA,NA,80,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/NW-Macleay-Blvd-Portland-OR-97210/119258668_zpid/
+6605 W Burnside Rd APT 113,Portland,OR,97210,324500,1097.0,2.0,2.0,34,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/6605-W-Burnside-Rd-APT-113-Portland-OR-97210/48573185_zpid/
+850 NW Powhatan Ter,Portland,OR,97210,1675000,4490.0,3.0,4.0,260,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/850-NW-Powhatan-Ter-Portland-OR-97210/53984612_zpid/
+2892 NW Beuhla Vista Ter,Portland,OR,97210,1600000,3488.0,4.0,3.5,189,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/2892-NW-Beuhla-Vista-Ter-Portland-OR-97210/53895123_zpid/
+2805 NW Upshur St APT C,Portland,OR,97210,344900,796.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2805-NW-Upshur-St-APT-C-Portland-OR-97210/53922349_zpid/
+405 NW Uptown Ter APT 2B,Portland,OR,97210,329000,622.0,1.0,1.0,83,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/405-NW-Uptown-Ter-APT-2B-Portland-OR-97210/65064531_zpid/
+312 NW Skyline Ln,PORTLAND,OR,97210,309000,8712.0,NA,NA,337,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/312-NW-Skyline-Ln-Portland-OR-97210/119265559_zpid/
+118 NW King Ave APT 1,Portland,OR,97210,359000,768.0,1.0,1.0,286,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/118-NW-King-Ave-APT-1-Portland-OR-97210/72257957_zpid/
+NW Macleay Blvd,Portland,OR,97210,NA,3762.0,5.0,3.5,110,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243594035_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1716 SW Westwood Dr,Portland,OR,97239,650000,3254.0,4.0,4.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1716-SW-Westwood-Dr-Portland-OR-97239/53967924_zpid/
+3701 SW Condor Ave APT V1,Portland,OR,97239,259900,675.0,1.0,1.0,95,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3701-SW-Condor-Ave-APT-V1-Portland-OR-97239/53811168_zpid/
+3921 SW Chesapeak Ave,Portland,OR,97239,899000,3214.0,4.0,2.1,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3921-SW-Chesapeak-Ave-Portland-OR-97239/53861904_zpid/
+841 SW Gaines St UNIT 1806,Portland,OR,97239,1475000,1896.0,2.0,3.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/841-SW-Gaines-St-UNIT-1806-Portland-OR-97239/2090984536_zpid/
+5858 SW Riveridge Ln APT 11,Portland,OR,97239,375000,1161.0,2.0,2.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5858-SW-Riveridge-Ln-APT-11-Portland-OR-97239/53943531_zpid/
+4416 SW Chesapeak Ave,Portland,OR,97239,849000,2568.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4416-SW-Chesapeak-Ave-Portland-OR-97239/53846669_zpid/
+4990 SW Landing Dr APT 301,Portland,OR,97239,419000,1058.0,2.0,2.0,4,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4990-SW-Landing-Dr-APT-301-Portland-OR-97239/62963854_zpid/
+3601 SW River Pkwy STE 2106,Portland,OR,97239,389900,845.0,1.0,1.0,4,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3601-SW-River-Pkwy-STE-2106-Portland-OR-97239/2109538904_zpid/
+6408 SW Burlingame Pl,Portland,OR,97239,1295000,4293.0,5.0,5.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/6408-SW-Burlingame-Pl-Portland-OR-97239/53831876_zpid/
+5624 SW Riverside Ln APT 15,Portland,OR,97239,299900,1170.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5624-SW-Riverside-Ln-APT-15-Portland-OR-97239/53987467_zpid/
+017 SW Curry St,Portland,OR,97239,575000,2457.0,3.0,1.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/017-SW-Curry-St-Portland-OR-97239/2091110590_zpid/
+841 SW Gaines St UNIT 2110,Portland,OR,97239,1295000,1645.0,2.0,2.0,17,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/841-SW-Gaines-St-UNIT-2110-Portland-OR-97239/2091226941_zpid/
+SW Barbur Blvd,PORTLAND,OR,97239,120000,7840.0,NA,NA,29,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Barbur-Blvd-Portland-OR-97239/53936340_zpid/
+3926 SW Martins Ln,Portland,OR,97239,1180000,4386.0,4.0,3.0,20,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3926-SW-Martins-Ln-Portland-OR-97239/53998264_zpid/
+3611 SW Condor Ave,Portland,OR,97239,549900,2450.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3611-SW-Condor-Ave-Portland-OR-97239/53836199_zpid/
+841 SW Gaines St UNIT 808,Portland,OR,97239,1519000,2350.0,2.0,3.0,17,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/841-SW-Gaines-St-UNIT-808-Portland-OR-97239/2091231765_zpid/
+4980 SW Landing Dr APT 203,Portland,OR,97239,319900,848.0,2.0,2.0,14,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4980-SW-Landing-Dr-APT-203-Portland-OR-97239/62963848_zpid/
+3224 SW 2nd Ave 6 # 6,Portland,OR,97239,565232,2447.0,2.0,3.0,15,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3224-SW-2nd-Ave-6-6-Portland-OR-97239/2091205305_zpid/
+SW Next To # 3061,Portland,OR,97239,249900,10454.0,NA,NA,29,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Next-To-3061-Portland-OR-97239/2091419363_zpid/
+3222 SW 2nd Ave # 5,Portland,OR,97239,565232,1833.0,2.0,3.0,23,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/3222-SW-2nd-Ave-5-Portland-OR-97239/2091330548_zpid/
+3224 SW 2nd Ave # 6,Portland,OR,97239,565232,2447.0,2.0,3.0,23,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/3224-SW-2nd-Ave-6-Portland-OR-97239/2091330529_zpid/
+3244 SW 2nd Ave 9 # 9,Portland,OR,97239,568484,2423.0,2.0,3.0,15,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3244-SW-2nd-Ave-9-9-Portland-OR-97239/2091205307_zpid/
+3216 SW 2nd Ave # 4,Portland,OR,97239,554500,2218.0,2.0,4.0,23,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/3216-SW-2nd-Ave-4-Portland-OR-97239/2091330555_zpid/
+3244 SW 2nd Ave # 9,Portland,OR,97239,568484,2423.0,2.0,3.0,23,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/3244-SW-2nd-Ave-9-Portland-OR-97239/2091328632_zpid/
+3222 SW 2nd Ave 5 # 5,Portland,OR,97239,565232,1833.0,2.0,3.0,15,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3222-SW-2nd-Ave-5-5-Portland-OR-97239/2091205310_zpid/
+3216 SW 2nd Ave 4 # 4,Portland,OR,97239,554500,2218.0,2.0,4.0,15,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3216-SW-2nd-Ave-4-4-Portland-OR-97239/2091205312_zpid/
+3388 SW Beaverton Hillsdale Hwy,Portland,OR,97239,189900,583.0,2.0,1.0,80,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3388-SW-Beaverton-Hillsdale-Hwy-Portland-OR-97239/53923133_zpid/
+SW Mcdonnell Ter,Portland,OR,97239,89000,9583.0,NA,NA,361,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Mcdonnell-Ter-Portland-OR-97239/126307893_zpid/
+3617 SW Corbett Ave,Portland,OR,97239,429000,1411.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3617-SW-Corbett-Ave-Portland-OR-97239/53836205_zpid/
+5150 SW Landing Dr APT 301,Portland,OR,97239,285000,784.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5150-SW-Landing-Dr-APT-301-Portland-OR-97239/2093070070_zpid/
+1235 SW Curry St,Portland,OR,97239,759900,2410.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1235-SW-Curry-St-Portland-OR-97239/53936003_zpid/
+5630 SW Riverside Ln APT 2,Portland,OR,97239,306000,1170.0,2.0,2.0,497,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/5630-SW-Riverside-Ln-APT-2-Portland-OR-97239/53987442_zpid/
+3983 SW Condor Ave,Portland,OR,97239,525000,2132.0,3.0,1.0,52,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3983-SW-Condor-Ave-Portland-OR-97239/53865488_zpid/
+4236 SW Mcdonnell Ter,Portland,OR,97239,1950000,3054.0,4.0,4.0,112,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4236-SW-Mcdonnell-Ter-Portland-OR-97239/53877791_zpid/
+5262 SW Westwood Vw,Portland,OR,97239,2495000,5382.0,5.0,5.0,357,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5262-SW-Westwood-Vw-Portland-OR-97239/121204862_zpid/
+5655 SW Menefee Dr,Portland,OR,97239,899900,2670.0,3.0,3.0,54,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5655-SW-Menefee-Dr-Portland-OR-97239/53967846_zpid/
+3515 SW Barbur Blvd APT Q3,Portland,OR,97239,320000,675.0,1.0,1.0,74,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3515-SW-Barbur-Blvd-APT-Q3-Portland-OR-97239/53811159_zpid/
+5225 SW Menefee Dr,Portland,OR,97239,895000,3527.0,4.0,3.0,309,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5225-SW-Menefee-Dr-Portland-OR-97239/53967776_zpid/
+3601 SW River Pkwy UNIT 2502,Portland,OR,97239,599900,1468.0,2.0,2.0,80,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3601-SW-River-Pkwy-UNIT-2502-Portland-OR-97239/72258974_zpid/
+5624 SW Riverside Ln APT 13,Portland,OR,97239,350000,1170.0,2.0,2.0,193,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5624-SW-Riverside-Ln-APT-13-Portland-OR-97239/53987465_zpid/
+1080 SW Westwood Dr,Portland,OR,97239,869000,3464.0,4.0,3.0,327,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1080-SW-Westwood-Dr-Portland-OR-97239/58472706_zpid/
+5015 SW Dosch Rd,Portland,OR,97239,899999,3802.0,6.0,3.0,375,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5015-SW-Dosch-Rd-Portland-OR-97239/53998883_zpid/
+3601 SW River Pkwy UNIT 612,Portland,OR,97239,350000,790.0,1.0,1.0,137,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3601-SW-River-Pkwy-UNIT-612-Portland-OR-97239/72258291_zpid/
+836 SW Curry St UNIT 508,Portland,OR,97239,769900,1525.0,2.0,2.0,377,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/836-SW-Curry-St-UNIT-508-Portland-OR-97239/68354142_zpid/
+3512 SW Beaverton Ave,Portland,OR,97239,1299000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3512-SW-Beaverton-Ave-Portland-OR-97239/53846353_zpid/
+4635 SW Corbett Ave # 2,Portland,OR,97239,529900,1942.0,3.0,4.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4635-SW-Corbett-Ave-2-Portland-OR-97239/61810616_zpid/
+3467 SW Doschview Ct,Portland,OR,97239,829975,2951.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3467-SW-Doschview-Ct-Portland-OR-97239/53981616_zpid/
+6319 SW Terwilliger Blvd,Portland,OR,97239,149999,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/6319-SW-Terwilliger-Blvd-Portland-OR-97239/119259858_zpid/
+3235 SW 1st Ave # 5,Portland,OR,97239,575000,905.0,1.0,1.0,240,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3235-SW-1st-Ave-5-Portland-OR-97239/2093731689_zpid/
+3601 SW River Pkwy UNIT 2204,Portland,OR,97239,364900,793.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3601-SW-River-Pkwy-UNIT-2204-Portland-OR-97239/72095714_zpid/
+3900 SW Altadena Ave,Portland,OR,97239,784995,3095.0,3.0,2.1,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3900-SW-Altadena-Ave-Portland-OR-97239/53861905_zpid/
+1806 SW Iowa St # 4,Portland,OR,97239,485000,1419.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1806-SW-Iowa-St-4-Portland-OR-97239/2091833422_zpid/
+3570 SW River Pkwy UNIT 1609,Portland,OR,97239,409000,931.0,1.0,1.0,81,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3570-SW-River-Pkwy-UNIT-1609-Portland-OR-97239/68354272_zpid/
+5144 SW Northwood Ave,Portland,OR,97239,350000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/5144-SW-Northwood-Ave-Portland-OR-97239/119266261_zpid/
+4323 SW Hamilton Ter,Portland,OR,97239,700000,3426.0,4.0,4.0,188,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/4323-SW-Hamilton-Ter-Portland-OR-97239/53936381_zpid/
+3601 SW River Pkwy,Portland,OR,97239,479000,1205.0,1.0,1.0,296,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3601-SW-River-Pkwy-Portland-OR-97239/2103145867_zpid/
+455 SW Hamilton Ct STE 603,Portland,OR,97239,2349000,5512.0,3.0,4.0,322,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/455-SW-Hamilton-Ct-STE-603-Portland-OR-97239/58474507_zpid/
+3528 SW Gale Ave,Portland,OR,97239,2250000,4805.0,4.0,5.0,141,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3528-SW-Gale-Ave-Portland-OR-97239/53862084_zpid/
+4131 SW View Point Ter,Portland,OR,97239,960000,4847.0,4.0,5.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/4131-SW-View-Point-Ter-Portland-OR-97239/53936297_zpid/
+920 SW Cheltenham St,Portland,OR,97239,197500,7840.0,NA,NA,84,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/920-SW-Cheltenham-St-Portland-OR-97239/53831953_zpid/
+6179 SW 18th Dr # 6,Portland,OR,97239,525000,1369.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/6179-SW-18th-Dr-6-Portland-OR-97239/2091833420_zpid/
+0239 Sw Hamilton St,Portland or,OR,97239,759900,1928.0,3.0,1.0,315,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/0239-Sw-Hamilton-St-Portland-Or-OR-97239/2094658899_zpid/
+1059 SW Westwood Dr,Portland,OR,97239,1495000,4731.0,4.0,5.0,105,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1059-SW-Westwood-Dr-Portland-OR-97239/53967905_zpid/
+3146 SW Fairmount Blvd,Portland,OR,97239,1600000,5188.0,5.0,5.0,538,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/3146-SW-Fairmount-Blvd-Portland-OR-97239/68011372_zpid/
+3058 SW Fairmount Blvd,Portland,OR,97239,1599000,5245.0,4.0,5.0,130,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3058-SW-Fairmount-Blvd-Portland-OR-97239/53998341_zpid/
+1818 SW Iowa St # 1,Portland,OR,97239,515000,1419.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1818-SW-Iowa-St-1-Portland-OR-97239/2091833972_zpid/
+1802 SW Iowa St # 5,Portland,OR,97239,515000,1419.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1802-SW-Iowa-St-5-Portland-OR-97239/2091833417_zpid/
+455 SW Hamilton Ct STE 602,Portland,OR,97239,1699000,3017.0,2.0,3.0,39,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/455-SW-Hamilton-Ct-STE-602-Portland-OR-97239/58474506_zpid/
+1810 SW Iowa St # 3,Portland,OR,97239,485000,1419.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1810-SW-Iowa-St-3-Portland-OR-97239/2091833418_zpid/
+6171 SW 18th Dr # 7,Portland,OR,97239,485000,1369.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/6171-SW-18th-Dr-7-Portland-OR-97239/2091833913_zpid/
+6163 SW 18th Dr # 8,Portland,OR,97239,485000,1369.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/6163-SW-18th-Dr-8-Portland-OR-97239/2091833911_zpid/
+6155 SW 18th Dr # 9,Portland,OR,97239,515000,1369.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/6155-SW-18th-Dr-9-Portland-OR-97239/2091833971_zpid/
+4449 SW Council Crest Dr,Portland,OR,97239,1499000,8600.0,6.0,8.0,263,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4449-SW-Council-Crest-Dr-Portland-OR-97239/53998315_zpid/
+1814 SW Iowa St # 2,Portland,OR,97239,485000,1419.0,3.0,4.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1814-SW-Iowa-St-2-Portland-OR-97239/2091833973_zpid/
+SW Dosch Rd,Portland,OR,97239,NA,2222.0,3.0,2.0,116,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243444737_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW Parkhill Dr,Portland,OR,97239,NA,2579.0,2.0,4.0,113,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243498798_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW Corbett Ave,Portland,OR,97239,NA,1018.0,2.0,1.0,158,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/218038282_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW 13th Ave,Portland,OR,97239,NA,1256.0,2.0,1.5,113,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240020600_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+10001 SW Riverside Dr,Portland,OR,97219,1089600,4986.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10001-SW-Riverside-Dr-Portland-OR-97219/54000001_zpid/
+4210 SW Pomona St,Portland,OR,97219,379900,1815.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4210-SW-Pomona-St-Portland-OR-97219/53982629_zpid/
+9506 SW 3rd Ave,Portland,OR,97219,399000,1270.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9506-SW-3rd-Ave-Portland-OR-97219/53844093_zpid/
+800 SW Canby St,Portland,OR,97219,500000,2109.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/800-SW-Canby-St-Portland-OR-97219/53831588_zpid/
+13150 SW Iron Mountain Blvd,Portland,OR,97219,4750000,6923.0,4.0,6.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/13150-SW-Iron-Mountain-Blvd-Portland-OR-97219/48223812_zpid/
+7937 SW 40th Ave APT H,Portland,OR,97219,159900,685.0,1.0,1.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/7937-SW-40th-Ave-APT-H-Portland-OR-97219/68353538_zpid/
+1287 SW Ophelia St,Portland,OR,97219,914900,3135.0,4.0,3.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1287-SW-Ophelia-St-Portland-OR-97219/119258066_zpid/
+7937 SW 40th Ave,Portland,OR,97219,159900,685.0,1.0,1.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/7937-SW-40th-Ave-Portland-OR-97219/2106557220_zpid/
+13623 SW 64th Ave,Portland,OR,97219,325000,1120.0,3.0,2.0,1,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/13623-SW-64th-Ave-Portland-OR-97219/48227051_zpid/
+4684 SW Comus Pl,Portland,OR,97219,135000,1058.0,2.0,2.0,9,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/4684-SW-Comus-Pl-Portland-OR-97219/2100876774_zpid/
+SW Arnold St,PORTLAND,OR,97219,150000,7500.0,NA,NA,4,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/SW-Arnold-St-Portland-OR-97219/119259815_zpid/
+9443 SW 52nd Ave,Portland,OR,97219,445000,1827.0,5.0,2.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/9443-SW-52nd-Ave-Portland-OR-97219/53982228_zpid/
+7111 SW 12th Dr,Portland,OR,97219,750000,3428.0,5.0,3.0,6,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7111-SW-12th-Dr-Portland-OR-97219/53991314_zpid/
+4415 SW Primrose St,Portland,OR,97219,525000,1689.0,4.0,3.0,4,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4415-SW-Primrose-St-Portland-OR-97219/53984741_zpid/
+5111 SW Marigold St,Portland,OR,97219,450000,1597.0,3.0,2.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5111-SW-Marigold-St-Portland-OR-97219/53981965_zpid/
+3543 SW Comus St,Portland,OR,97219,531000,2376.0,4.0,3.0,7,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/3543-SW-Comus-St-Portland-OR-97219/53889765_zpid/
+4225 SW Arnold St,Portland,OR,97219,175000,7405.0,NA,NA,4,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/4225-SW-Arnold-St-Portland-OR-97219/119260466_zpid/
+3405 SW Hume St,Portland,OR,97219,495000,8276.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/3405-SW-Hume-St-Portland-OR-97219/80939577_zpid/
+12604 SW 60th Ct,Portland,OR,97219,749000,3829.0,4.0,3.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/12604-SW-60th-Ct-Portland-OR-97219/53896541_zpid/
+SW Buddington St # 32-34,Portland,OR,97219,35000,7405.0,NA,NA,22,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Buddington-St-32-34-Portland-OR-97219/2091312368_zpid/
+5156 SW Multnomah Blvd APT I,Portland,OR,97219,168000,990.0,2.0,2.0,28,Auction,http://www.zillow.com/homes/for_sale//homedetails/5156-SW-Multnomah-Blvd-APT-I-Portland-OR-97219/53954466_zpid/
+2531 SW Spring Garden St APT 17,Portland,OR,97219,269900,1173.0,3.0,2.0,21,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2531-SW-Spring-Garden-St-APT-17-Portland-OR-97219/72260362_zpid/
+9134 SW 40th Ave,Portland,OR,97219,419900,2584.0,5.0,2.0,12,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9134-SW-40th-Ave-Portland-OR-97219/54000178_zpid/
+10046 SW 25th Ave,Portland,OR,97219,949900,2933.0,4.0,4.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10046-SW-25th-Ave-Portland-OR-97219/124207509_zpid/
+6650 SW 23rd Pl,Portland,OR,97219,430000,1632.0,3.0,3.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6650-SW-23rd-Pl-Portland-OR-97219/90192136_zpid/
+10440 SW 25th Ave,Portland,OR,97219,599000,3360.0,4.0,3.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/10440-SW-25th-Ave-Portland-OR-97219/53857072_zpid/
+8360 SW 6th Ave,Portland,OR,97219,659000,2400.0,4.0,2.1,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8360-SW-6th-Ave-Portland-OR-97219/2091245074_zpid/
+11299 SW Capitol Hwy UNIT 1,Portland,OR,97219,357400,1503.0,3.0,3.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/11299-SW-Capitol-Hwy-UNIT-1-Portland-OR-97219/88962532_zpid/
+5028 SW Baird St,Portland,OR,97219,385000,1516.0,2.0,2.0,21,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5028-SW-Baird-St-Portland-OR-97219/53982192_zpid/
+743 SW Maplecrest Ct,Portland,OR,97219,849900,3090.0,3.0,3.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/743-SW-Maplecrest-Ct-Portland-OR-97219/53929798_zpid/
+7624 SW Fulton Park Pl,Portland,OR,97219,585000,2265.0,3.0,3.0,10,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7624-SW-Fulton-Park-Pl-Portland-OR-97219/53868349_zpid/
+7430 SW 31st Ave,Portland,OR,97219,725000,2542.0,4.0,3.0,25,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7430-SW-31st-Ave-Portland-OR-97219/53830878_zpid/
+7531 SW 64th Pl,Portland,OR,97219,689900,2783.0,4.0,3.0,17,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7531-SW-64th-Pl-Portland-OR-97219/53833701_zpid/
+11536 SW 33rd Ave,Portland,OR,97219,955000,3893.0,4.0,4.0,11,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11536-SW-33rd-Ave-Portland-OR-97219/54000582_zpid/
+10651 SW Lancaster Rd,Portland,OR,97219,423000,1861.0,2.0,2.0,28,Auction,http://www.zillow.com/homes/for_sale//homedetails/10651-SW-Lancaster-Rd-Portland-OR-97219/53857080_zpid/
+11511 SW Military Ln,Portland,OR,97219,2450000,7011.0,5.0,5.0,14,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11511-SW-Military-Ln-Portland-OR-97219/53811045_zpid/
+5006 SW Pomona St,Portland,OR,97219,925000,3578.0,5.0,4.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5006-SW-Pomona-St-Portland-OR-97219/80928206_zpid/
+11650 SW Military Rd,Portland,OR,97219,2795000,5508.0,5.0,6.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11650-SW-Military-Rd-Portland-OR-97219/58472546_zpid/
+7415 SW 53rd Ave,Portland,OR,97219,390000,785.0,2.0,1.0,28,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/7415-SW-53rd-Ave-Portland-OR-97219/53895906_zpid/
+0 SW Nevada St,Portland,OR,97219,169900,4791.0,NA,NA,20,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-SW-Nevada-St-Portland-OR-97219/2106625019_zpid/
+01015 SW Palatine Hill Rd,Portland,OR,97219,1595000,4846.0,6.0,6.0,28,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/01015-SW-Palatine-Hill-Rd-Portland-OR-97219/62966138_zpid/
+8237 SW 46th Ave,Portland,OR,97219,799900,2749.0,4.0,2.5,17,New Construction,http://www.zillow.com/homes/for_sale//homedetails/8237-SW-46th-Ave-Portland-OR-97219/2091234234_zpid/
+4219 SW Marigold St,Portland,OR,97219,525000,2554.0,3.0,1.0,15,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/4219-SW-Marigold-St-Portland-OR-97219/53984723_zpid/
+1269 SW Ophelia St,Portland,OR,97219,949950,3502.0,5.0,4.0,13,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1269-SW-Ophelia-St-Portland-OR-97219/2091175217_zpid/
+3825 SW Huber St,Portland,OR,97219,299000,2214.0,2.0,1.0,40,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3825-SW-Huber-St-Portland-OR-97219/53883002_zpid/
+7404 SW 53rd Ave,Portland,OR,97219,429900,1919.0,3.0,1.0,69,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7404-SW-53rd-Ave-Portland-OR-97219/53895925_zpid/
+5811 SW Vermont St,Portland,OR,97219,489900,2150.0,3.0,2.0,110,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5811-SW-Vermont-St-Portland-OR-97219/53998920_zpid/
+3121 SW Spring Garden St,Portland,OR,97219,339000,956.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3121-SW-Spring-Garden-St-Portland-OR-97219/53938306_zpid/
+5539 SW Multnomah Blvd,PORTLAND,OR,97219,327000,1276.0,3.0,2.0,732,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/5539-SW-Multnomah-Blvd-Portland-OR-97219/53878994_zpid/
+7442 SW Virginia Ave APT B,Portland,OR,97219,255000,915.0,1.0,1.5,248,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/7442-SW-Virginia-Ave-APT-B-Portland-OR-97219/71245348_zpid/
+5543 SW Pasadena Dr,Portland,OR,97219,390000,1362.0,3.0,2.0,179,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5543-SW-Pasadena-Dr-Portland-OR-97219/53850147_zpid/
+7927 SW 11th Ave,Portland,OR,97219,435000,2040.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7927-SW-11th-Ave-Portland-OR-97219/53835152_zpid/
+5507 SW Taylors Ferry Rd,Portland,OR,97219,295000,745.0,2.0,1.0,67,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5507-SW-Taylors-Ferry-Rd-Portland-OR-97219/58472817_zpid/
+7720 SW Macadam Ave APT 10,Portland,OR,97219,409000,1168.0,2.0,2.0,629,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7720-SW-Macadam-Ave-APT-10-Portland-OR-97219/2140419086_zpid/
+3741 SW Pomona St,Portland,OR,97219,399900,1764.0,3.0,2.0,116,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/3741-SW-Pomona-St-Portland-OR-97219/53982601_zpid/
+8576 SW 47th Ave,Portland,OR,97219,795000,2795.0,3.0,3.0,526,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8576-SW-47th-Ave-Portland-OR-97219/2097148716_zpid/
+7430 SW Miles Pl,Portland,OR,97219,550000,2178.0,3.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7430-SW-Miles-Pl-Portland-OR-97219/53987430_zpid/
+4352 SW Dickinson St # 31,Portland,OR,97219,172500,921.0,2.0,1.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/4352-SW-Dickinson-St-31-Portland-OR-97219/53867719_zpid/
+10719 SW Lancaster Rd,Portland,OR,97219,550000,3206.0,3.0,2.5,167,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10719-SW-Lancaster-Rd-Portland-OR-97219/53928751_zpid/
+8415 SW 19th Ave,Portland,OR,97219,285000,800.0,2.0,1.0,99,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8415-SW-19th-Ave-Portland-OR-97219/53813637_zpid/
+7140 SW Virginia Ave,Portland,OR,97219,610100,2440.0,3.0,3.0,144,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7140-SW-Virginia-Ave-Portland-OR-97219/53896114_zpid/
+1235 SW Carson St,Portland,OR,97219,571900,2028.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1235-SW-Carson-St-Portland-OR-97219/53834439_zpid/
+10410 SW 46th Pl,Portland,OR,97219,569900,2065.0,3.0,4.0,NA,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10410-SW-46th-Pl-Portland-OR-97219/2091974862_zpid/
+7420 SW 64th Pl,Portland,OR,97219,599000,2224.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7420-SW-64th-Pl-Portland-OR-97219/53833730_zpid/
+9636 SW 48th Ave,Portland,OR,97219,309900,1104.0,2.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9636-SW-48th-Ave-Portland-OR-97219/53982362_zpid/
+4035 SW Baird St,Portland,OR,97219,435000,2102.0,3.0,3.0,239,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/4035-SW-Baird-St-Portland-OR-97219/89803757_zpid/
+4368 SW Dickinson St # 38,Portland,OR,97219,151000,921.0,2.0,1.0,1489,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/4368-SW-Dickinson-St-38-Portland-OR-97219/53867726_zpid/
+3046 SW Florida Ct APT C,Portland,OR,97219,290000,1293.0,3.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/3046-SW-Florida-Ct-APT-C-Portland-OR-97219/53923254_zpid/
+8120 SW 8th Ave,Portland,OR,97219,615000,3348.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8120-SW-8th-Ave-Portland-OR-97219/53831631_zpid/
+5130 SW Multnomah Blvd APT I,Portland,OR,97219,219500,990.0,2.0,2.0,76,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/5130-SW-Multnomah-Blvd-APT-I-Portland-OR-97219/53954442_zpid/
+655 SW Stephenson St,Portland,OR,97219,1099000,4150.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/655-SW-Stephenson-St-Portland-OR-97219/2091532975_zpid/
+4684 SW Comus Pl # 1-G,Portland,OR,97219,153000,1058.0,2.0,2.0,167,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/4684-SW-Comus-Pl-1-G-Portland-OR-97219/53845151_zpid/
+9121 SW 9th Pl,Portland,OR,97219,650000,2954.0,4.0,3.0,159,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9121-SW-9th-Pl-Portland-OR-97219/53920821_zpid/
+0 SW 2nd Ave,Portland,OR,97219,149700,9583.0,NA,NA,2900,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-SW-2nd-Ave-Portland-OR-97219/2140922559_zpid/
+13228 SW 62nd Ave,Portland,OR,97219,359000,1040.0,2.0,1.0,293,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/13228-SW-62nd-Ave-Portland-OR-97219/48226905_zpid/
+9610 SW Boones Ferry Rd,Portland,OR,97219,499900,2270.0,4.0,3.0,162,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9610-SW-Boones-Ferry-Rd-Portland-OR-97219/53844109_zpid/
+10655 SW Collina Ave,Portland,OR,97219,759000,2319.0,4.0,3.0,190,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10655-SW-Collina-Ave-Portland-OR-97219/53943432_zpid/
+5218 SW Arnold St,Portland,OR,97219,369000,1578.0,3.0,3.0,2019,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5218-SW-Arnold-St-Portland-OR-97219/53982698_zpid/
+11350 SW Riverwood Rd,Portland,OR,97219,2975000,6516.0,3.0,5.0,386,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11350-SW-Riverwood-Rd-Portland-OR-97219/53944816_zpid/
+13313 SW Iron Mountain Blvd,Portland,OR,97219,949000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/13313-SW-Iron-Mountain-Blvd-Portland-OR-97219/2093661623_zpid/
+Sw 64th Ave,portland,OR,97219,110000,6098.0,NA,NA,193,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Sw-64th-Ave-Portland-OR-97219/2096971894_zpid/
+01415 SW Radcliffe Ln,Portland,OR,97219,2495000,5607.0,4.0,5.0,74,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/01415-SW-Radcliffe-Ln-Portland-OR-97219/2093742004_zpid/
+1722 SW Custer St,Portland,OR,97219,799999,2928.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1722-SW-Custer-St-Portland-OR-97219/2094224295_zpid/
+2709 SW Ridge Dr,Portland,OR,97219,515000,2450.0,4.0,3.0,56,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/2709-SW-Ridge-Dr-Portland-OR-97219/53885037_zpid/
+222 SW Florida St,Portland,OR,97219,1400000,3900.0,4.0,3.0,76,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/222-SW-Florida-St-Portland-OR-97219/2091866508_zpid/
+10502 SW Collina Ave,Portland,OR,97219,880000,2960.0,4.0,3.0,NA,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/10502-SW-Collina-Ave-Portland-OR-97219/53943423_zpid/
+4727 SW Buddington St,Portland,OR,97219,280000,NA,NA,NA,136,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/4727-SW-Buddington-St-Portland-OR-97219/53982778_zpid/
+0951 SW Palatine Hill Rd,Portland,OR,97219,1400000,5104.0,5.0,4.0,83,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/0951-SW-Palatine-Hill-Rd-Portland-OR-97219/2091945646_zpid/
+1817 SW Joshua St,Portland,OR,97219,749000,3295.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1817-SW-Joshua-St-Portland-OR-97219/53959087_zpid/
+1521 SW Hume Ct,Portland,OR,97219,465000,2500.0,4.0,2.0,52,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1521-SW-Hume-Ct-Portland-OR-97219/53834400_zpid/
+10615 SW 40th Ave,Portland,OR,97219,899500,3073.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10615-SW-40th-Ave-Portland-OR-97219/118632929_zpid/
+11607 SW 33rd Pl,Portland,OR,97219,709000,2796.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11607-SW-33rd-Pl-Portland-OR-97219/53965498_zpid/
+10415 SW 46th Pl,Portland,OR,97219,559900,2065.0,3.0,4.0,88,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10415-SW-46th-Pl-Portland-OR-97219/2091974851_zpid/
+11760 SW Riverwood Rd,Portland,OR,97219,1750000,4687.0,3.0,5.0,32,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/11760-SW-Riverwood-Rd-Portland-OR-97219/53944798_zpid/
+6725 SW 54th Ave,Portland,OR,97219,649900,2297.0,3.0,3.0,273,New Construction,http://www.zillow.com/homes/for_sale//homedetails/6725-SW-54th-Ave-Portland-OR-97219/2094148407_zpid/
+9223 SW 55th Ave,Portland,OR,97219,665000,3512.0,5.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9223-SW-55th-Ave-Portland-OR-97219/53929024_zpid/
+8035 SW Burlingame Ave,Portland,OR,97219,639900,3017.0,3.0,3.0,174,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8035-SW-Burlingame-Ave-Portland-OR-97219/53831635_zpid/
+1524 SW Joshua St,Portland,OR,97219,875000,3528.0,5.0,3.0,110,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1524-SW-Joshua-St-Portland-OR-97219/79895001_zpid/
+9612 SW 41st Ave,Portland,OR,97219,525000,2248.0,4.0,4.0,101,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/9612-SW-41st-Ave-Portland-OR-97219/2092094968_zpid/
+0 SW Luradel,Portland,OR,97219,99000,1742.0,NA,NA,76,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-SW-Luradel-Portland-OR-97219/2091868761_zpid/
+1546 SW Military Rd,Portland,OR,97219,2625000,5852.0,4.0,4.0,41,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1546-SW-Military-Rd-Portland-OR-97219/53811102_zpid/
+1221 SW Arnold St,Portland,OR,97219,775000,3100.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1221-SW-Arnold-St-Portland-OR-97219/53837188_zpid/
+9406 SW 62nd Dr,Portland,OR,97219,885000,6304.0,9.0,5.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9406-SW-62nd-Dr-Portland-OR-97219/53972959_zpid/
+7720 SW Macadam Ave 25 # 25,Portland,OR,97219,769500,2486.0,3.0,3.0,186,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7720-SW-Macadam-Ave-25-25-Portland-OR-97219/2128084570_zpid/
+7515 SW Corbett Ave,Portland,OR,97219,739900,3153.0,5.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7515-SW-Corbett-Ave-Portland-OR-97219/53868229_zpid/
+0550 SW Riverside St,Portland,OR,97219,739900,2422.0,4.0,3.0,91,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/0550-SW-Riverside-St-Portland-OR-97219/2092005422_zpid/
+1600 SW Greenwood Rd,Portland,OR,97219,4850000,9007.0,6.0,7.0,298,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1600-SW-Greenwood-Rd-Portland-OR-97219/2094449826_zpid/
+01415 SW Military Rd,Portland,OR,97219,2995000,7245.0,5.0,6.0,46,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/01415-SW-Military-Rd-Portland-OR-97219/2097610990_zpid/
+10624 SW 43rd Ave,Portland,OR,97219,555000,2779.0,4.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10624-SW-43rd-Ave-Portland-OR-97219/60191235_zpid/
+9116 SW 8th Ave,Portland,OR,97219,549900,2388.0,3.0,3.0,54,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9116-SW-8th-Ave-Portland-OR-97219/53894898_zpid/
+0 SW Luradel St,Portland,OR,97219,99000,NA,NA,NA,42,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-SW-Luradel-St-Portland-OR-97219/2091576741_zpid/
+12518 SW Iron Mountain Blvd,Portland,OR,97219,1599999,4376.0,5.0,4.0,84,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/12518-SW-Iron-Mountain-Blvd-Portland-OR-97219/53852909_zpid/
+9920 SW Riverside Dr,Portland,OR,97219,695000,NA,NA,NA,825,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/9920-SW-Riverside-Dr-Portland-OR-97219/2100497946_zpid/
+SW Florida St,PORTLAND,OR,97219,195000,4791.0,NA,NA,301,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Florida-St-Portland-OR-97219/119259659_zpid/
+4000 SW Pomona St,Portland,OR,97219,225000,10890.0,NA,NA,32,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/4000-SW-Pomona-St-Portland-OR-97219/53929974_zpid/
+13050 SW Iron Mountain Blvd,Portland,OR,97219,4898000,7577.0,5.0,9.0,83,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/13050-SW-Iron-Mountain-Blvd-Portland-OR-97219/48223811_zpid/
+550 SW Riverside St,Portland,OR,97219,739900,2422.0,4.0,3.0,88,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/550-SW-Riverside-St-Portland-OR-97219/54000051_zpid/
+01837 SW Radcliffe Rd,Portland,OR,97219,1850000,7000.0,5.0,5.0,312,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/01837-SW-Radcliffe-Rd-Portland-OR-97219/62965952_zpid/
+7620 SW 37th Ave,Portland,OR,97219,549000,1786.0,3.0,3.0,203,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/7620-SW-37th-Ave-Portland-OR-97219/53939101_zpid/
+SW Carey Ln,Portland,OR,97219,550000,NA,NA,NA,116,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Carey-Ln-Portland-OR-97219/119269297_zpid/
+7006 SW Virginia Ave,Portland,OR,97219,1200000,3073.0,4.0,5.0,458,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7006-SW-Virginia-Ave-Portland-OR-97219/53957840_zpid/
+SW Virginia Pl,Portland,OR,97219,975000,NA,NA,NA,109,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Virginia-Pl-Portland-OR-97219/2115498241_zpid/
+872 SW Trillium Ln,Portland,OR,97219,899000,NA,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/872-SW-Trillium-Ln-Portland-OR-97219/2106918242_zpid/
+4014 SW Marigold St,Portland,OR,97219,330000,7405.0,NA,NA,137,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/4014-SW-Marigold-St-Portland-OR-97219/53984831_zpid/
+1908 SW Collins Ct,Portland,OR,97219,1450000,4041.0,4.0,3.0,142,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/1908-SW-Collins-Ct-Portland-OR-97219/53820643_zpid/
+4624 SW Comus Pl # 5-H,Portland,OR,97219,210000,998.0,2.0,2.0,342,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/4624-SW-Comus-Pl-5-H-Portland-OR-97219/53845180_zpid/
+0 SW Fulton Park Blvd,Portland,OR,97219,199900,3484.0,NA,NA,103,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/0-SW-Fulton-Park-Blvd-Portland-OR-97219/2092119552_zpid/
+9040 SW 49th Ave,Portland,OR,97219,550000,2280.0,4.0,3.0,1533,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/9040-SW-49th-Ave-Portland-OR-97219/53982024_zpid/
+7720 SW Macadam Ave APT 1,Portland,OR,97219,849000,NA,0.0,NA,342,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7720-SW-Macadam-Ave-APT-1-Portland-OR-97219/2102052588_zpid/
+SW Virginia Pl LOT 8,Portland,OR,97219,200000,4791.0,NA,NA,108,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Virginia-Pl-LOT-8-Portland-OR-97219/2092162895_zpid/
+10263 SW Daphne Pl,Portland,OR,97219,1779950,4892.0,4.0,5.0,214,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10263-SW-Daphne-Pl-Portland-OR-97219/61810597_zpid/
+10402 SW 46th Pl,Portland,OR,97219,559900,2065.0,3.0,4.0,88,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10402-SW-46th-Pl-Portland-OR-97219/2091974955_zpid/
+10403 SW 46th Pl,Portland,OR,97219,559900,2065.0,3.0,4.0,89,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10403-SW-46th-Pl-Portland-OR-97219/2091976625_zpid/
+8315 SW 47th Ave,Portland,OR,97219,750000,1740.0,3.0,2.0,87,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/8315-SW-47th-Ave-Portland-OR-97219/53936497_zpid/
+SW Plum And Sw 46 St,Portland,OR,97219,435000,8276.0,NA,NA,153,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Plum-And-Sw-46-St-Portland-OR-97219/2092663194_zpid/
+SW Virginia Pl # 6,Portland,OR,97219,245000,6098.0,NA,NA,109,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Virginia-Pl-6-Portland-OR-97219/2092171772_zpid/
+SW Virginia Pl LOT 7,Portland,OR,97219,230000,5662.0,NA,NA,108,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Virginia-Pl-LOT-7-Portland-OR-97219/2092162894_zpid/
+SW Virginia Pl # 4,Portland,OR,97219,280000,6969.0,NA,NA,109,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Virginia-Pl-4-Portland-OR-97219/2092171771_zpid/
+SW Virginia Pl # 5,Portland,OR,97219,245000,6098.0,NA,NA,109,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/SW-Virginia-Pl-5-Portland-OR-97219/2092171892_zpid/
+10414 SW 46th Pl,Portland,OR,97219,559900,2065.0,3.0,4.0,88,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10414-SW-46th-Pl-Portland-OR-97219/2091974861_zpid/
+10406 SW 46th Pl,Portland,OR,97219,559900,2065.0,3.0,4.0,88,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10406-SW-46th-Pl-Portland-OR-97219/2091974919_zpid/
+10411 SW 46th Pl,Portland,OR,97219,559900,2065.0,3.0,4.0,88,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10411-SW-46th-Pl-Portland-OR-97219/2091974863_zpid/
+10407 SW 46th Pl,Portland,OR,97219,559900,2065.0,3.0,4.0,88,New Construction,http://www.zillow.com/homes/for_sale//homedetails/10407-SW-46th-Pl-Portland-OR-97219/2091974918_zpid/
+SW Alfred Ct,Portland,OR,97219,NA,2278.0,2.0,2.5,104,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242027302_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW 28th Dr,Portland,OR,97219,NA,3528.0,4.0,2.5,454,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176476025_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW 10th Ave,Portland,OR,97219,NA,1250.0,3.0,1.5,286,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176476016_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW Falcon St,Portland,OR,97219,NA,1295.0,3.0,2.0,132,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241620600_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW Troy St,Portland,OR,97219,NA,1896.0,2.0,2.0,158,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/218038288_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW 40th Ave APT I,Portland,OR,97219,NA,667.0,NA,1.0,418,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/SW-40th-Ave-APT-I-Portland-OR-97219/176447797_zpid/
+SW Lancaster Rd,Portland,OR,97219,NA,1861.0,2.0,2.0,138,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243120352_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+SW Lancaster Rd,Portland,OR,97219,NA,1861.0,2.0,2.0,138,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243120352_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+1410 NW Kearney St APT 912,Portland,OR,97209,419900,837.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1410-NW-Kearney-St-APT-912-Portland-OR-97209/63298457_zpid/
+411 NW Flanders St APT 405,Portland,OR,97209,278500,724.0,0.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/411-NW-Flanders-St-APT-405-Portland-OR-97209/61807792_zpid/
+1009 NW Hoyt St APT 212,Portland,OR,97209,900000,1568.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1009-NW-Hoyt-St-APT-212-Portland-OR-97209/53931963_zpid/
+949 NW Overton St UNIT 1112,Portland,OR,97209,999000,1530.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/949-NW-Overton-St-UNIT-1112-Portland-OR-97209/83078845_zpid/
+949 NW Overton St 102 # 102,Portland,OR,97209,850000,2001.0,2.0,3.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/949-NW-Overton-St-102-102-Portland-OR-97209/2090991862_zpid/
+937 NW Glisan St UNIT 1034,Portland,OR,97209,575000,968.0,1.0,1.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/937-NW-Glisan-St-UNIT-1034-Portland-OR-97209/87761519_zpid/
+1400 NW Irving St APT 326,Portland,OR,97209,380000,822.0,0.0,1.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1400-NW-Irving-St-APT-326-Portland-OR-97209/63350377_zpid/
+920 NW Naito Pkwy APT J7,Portland,OR,97209,255000,745.0,1.0,1.0,4,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/920-NW-Naito-Pkwy-APT-J7-Portland-OR-97209/62966550_zpid/
+1420 NW Lovejoy St APT 330,Portland,OR,97209,384000,745.0,1.0,1.0,4,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1420-NW-Lovejoy-St-APT-330-Portland-OR-97209/61788400_zpid/
+949 NW Overton St UNIT 102,Portland,OR,97209,850000,2001.0,2.0,3.0,4,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/949-NW-Overton-St-UNIT-102-Portland-OR-97209/83079578_zpid/
+411 NW Flanders St APT 611,Portland,OR,97209,275000,628.0,1.0,1.0,4,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/411-NW-Flanders-St-APT-611-Portland-OR-97209/61807816_zpid/
+311 NW 12th Ave UNIT 203,Portland,OR,97209,589900,1029.0,1.0,2.0,3,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/311-NW-12th-Ave-UNIT-203-Portland-OR-97209/81771502_zpid/
+1009 NW Hoyt St APT 108,Portland,OR,97209,424900,806.0,1.0,1.0,5,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1009-NW-Hoyt-St-APT-108-Portland-OR-97209/53931948_zpid/
+1631 NW Everett St APT 407,Portland,OR,97209,210000,347.0,0.0,1.0,6,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1631-NW-Everett-St-APT-407-Portland-OR-97209/82334863_zpid/
+1255 NW 9th Ave APT 1102,Portland,OR,97209,375000,634.0,0.0,1.0,7,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/1255-NW-9th-Ave-APT-1102-Portland-OR-97209/65064764_zpid/
+1926 W Burnside St UNIT 1106,Portland,OR,97209,378900,723.0,1.0,1.0,1,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1926-W-Burnside-St-UNIT-1106-Portland-OR-97209/79898652_zpid/
+311 NW 12th Ave UNIT 1104,Portland,OR,97209,1575000,1675.0,1.0,2.0,9,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/311-NW-12th-Ave-UNIT-1104-Portland-OR-97209/82331647_zpid/
+719 NW 17th Ave,Portland,OR,97209,950000,2760.0,4.0,4.0,25,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/719-NW-17th-Ave-Portland-OR-97209/2121535439_zpid/
+416 NW 13th Ave APT 406,Portland,OR,97209,680000,1070.0,2.0,1.0,16,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/416-NW-13th-Ave-APT-406-Portland-OR-97209/53840141_zpid/
+1125 NW 9th Ave APT 520,Portland,OR,97209,569000,1189.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1125-NW-9th-Ave-APT-520-Portland-OR-97209/65673893_zpid/
+1420 NW Lovejoy St APT 420,Portland,OR,97209,479000,1084.0,2.0,2.0,22,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1420-NW-Lovejoy-St-APT-420-Portland-OR-97209/61788403_zpid/
+333 NW 9th Ave APT 1502,Portland,OR,97209,3650000,3443.0,2.0,3.0,19,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/333-NW-9th-Ave-APT-1502-Portland-OR-97209/64680522_zpid/
+420 NW 11th Ave UNIT 1108,Portland,OR,97209,1249900,1824.0,2.0,2.0,18,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/420-NW-11th-Ave-UNIT-1108-Portland-OR-97209/58474934_zpid/
+1310 NW Naito Pkwy UNIT 201,Portland,OR,97209,799000,1495.0,2.0,2.0,20,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1310-NW-Naito-Pkwy-UNIT-201-Portland-OR-97209/2091279800_zpid/
+1410 NW Kearney St APT 1111,Portland,OR,97209,2099000,2353.0,2.0,2.0,19,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1410-NW-Kearney-St-APT-1111-Portland-OR-97209/63298490_zpid/
+1830 NW Riverscape St APT 100,Portland,OR,97209,399900,741.0,0.0,1.0,17,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1830-NW-Riverscape-St-APT-100-Portland-OR-97209/82336692_zpid/
+1410 NW Kearney St APT 610,Portland,OR,97209,789000,1630.0,2.0,2.0,24,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1410-NW-Kearney-St-APT-610-Portland-OR-97209/63263659_zpid/
+1125 NW 9th Ave APT 203,Portland,OR,97209,369000,707.0,1.0,1.0,14,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1125-NW-9th-Ave-APT-203-Portland-OR-97209/65675812_zpid/
+1631 NW Everett St APT 305,Portland,OR,97209,244900,455.0,0.0,1.0,23,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1631-NW-Everett-St-APT-305-Portland-OR-97209/82338993_zpid/
+1926 W Burnside St UNIT 1413,Portland,OR,97209,389000,705.0,1.0,1.0,18,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1926-W-Burnside-St-UNIT-1413-Portland-OR-97209/79897711_zpid/
+937 NW Glisan St UNIT 537,Portland,OR,97209,819900,1584.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/937-NW-Glisan-St-UNIT-537-Portland-OR-97209/87758638_zpid/
+1310 NW Naito Pkwy UNIT 703,Portland,OR,97209,999000,1696.0,2.0,3.0,21,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1310-NW-Naito-Pkwy-UNIT-703-Portland-OR-97209/2103389357_zpid/
+411 NW Flanders St APT 501,Portland,OR,97209,385000,954.0,1.0,1.0,25,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/411-NW-Flanders-St-APT-501-Portland-OR-97209/61788002_zpid/
+720 NW Naito Pkwy APT D23,Portland,OR,97209,420000,1049.0,2.0,2.0,17,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/720-NW-Naito-Pkwy-APT-D23-Portland-OR-97209/64581530_zpid/
+1926 W Burnside St UNIT 910,Portland,OR,97209,375000,720.0,1.0,1.0,12,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1926-W-Burnside-St-UNIT-910-Portland-OR-97209/79893938_zpid/
+1001 NW Lovejoy St UNIT 413,Portland,OR,97209,625000,870.0,1.0,1.0,12,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1001-NW-Lovejoy-St-UNIT-413-Portland-OR-97209/79893414_zpid/
+1400 NW Irving St APT 329,Portland,OR,97209,469900,1062.0,1.0,2.0,21,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1400-NW-Irving-St-APT-329-Portland-OR-97209/63350380_zpid/
+949 NW Overton St UNIT 302,Portland,OR,97209,1295000,2010.0,2.0,3.0,28,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/949-NW-Overton-St-UNIT-302-Portland-OR-97209/83079999_zpid/
+1829 NW Lovejoy St UNIT 208,Portland,OR,97209,299900,618.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1829-NW-Lovejoy-St-UNIT-208-Portland-OR-97209/82337804_zpid/
+930 NW Naito Pkwy APT K11,Portland,OR,97209,229900,734.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/930-NW-Naito-Pkwy-APT-K11-Portland-OR-97209/61810405_zpid/
+1829 NW Lovejoy St UNIT 312,Portland,OR,97209,164000,275.0,0.0,1.0,130,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1829-NW-Lovejoy-St-UNIT-312-Portland-OR-97209/82344264_zpid/
+620 NW Naito Pkwy APT B4,Portland,OR,97209,239000,700.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/620-NW-Naito-Pkwy-APT-B4-Portland-OR-97209/64756266_zpid/
+1811 NW Couch St APT 508,Portland,OR,97209,359000,932.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1811-NW-Couch-St-APT-508-Portland-OR-97209/68353026_zpid/
+2058 NW Flanders St APT 6,Portland,OR,97209,429900,1183.0,3.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2058-NW-Flanders-St-APT-6-Portland-OR-97209/2097872575_zpid/
+720 NW Naito Pkwy APT D21,Portland,OR,97209,249000,735.0,1.0,1.0,83,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/720-NW-Naito-Pkwy-APT-D21-Portland-OR-97209/64711055_zpid/
+20 NW 16th Ave APT 203,Portland,OR,97209,167000,315.0,0.0,1.0,47,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-NW-16th-Ave-APT-203-Portland-OR-97209/72257521_zpid/
+1942 NW Pettygrove St,Portland,OR,97209,2195000,6650.0,0.0,6.0,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/1942-NW-Pettygrove-St-Portland-OR-97209/80926242_zpid/
+1410 NW Kearney St APT 726,Portland,OR,97209,499900,1122.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1410-NW-Kearney-St-APT-726-Portland-OR-97209/63298434_zpid/
+411 NW Flanders St APT 608,Portland,OR,97209,289900,682.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/411-NW-Flanders-St-APT-608-Portland-OR-97209/61807814_zpid/
+1400 NW Irving St APT 101,Portland,OR,97209,699999,1377.0,1.0,2.0,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/1400-NW-Irving-St-APT-101-Portland-OR-97209/63350338_zpid/
+937 NW Glisan St UNIT 435,Portland,OR,97209,665000,1101.0,2.0,2.0,40,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/937-NW-Glisan-St-UNIT-435-Portland-OR-97209/87761174_zpid/
+1420 NW Lovejoy St APT 605,Portland,OR,97209,579000,1222.0,2.0,2.0,38,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1420-NW-Lovejoy-St-APT-605-Portland-OR-97209/61808958_zpid/
+2015 NW Flanders St UNIT 502,Portland,OR,97209,201975,420.0,0.0,1.0,155,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/2015-NW-Flanders-St-UNIT-502-Portland-OR-97209/62966323_zpid/
+820 NW 12th Ave APT 404,Portland,OR,97209,640000,1182.0,2.0,2.0,62,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/820-NW-12th-Ave-APT-404-Portland-OR-97209/53944408_zpid/
+1420 NW Lovejoy St APT 518,Portland,OR,97209,360000,736.0,1.0,1.0,63,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1420-NW-Lovejoy-St-APT-518-Portland-OR-97209/61808942_zpid/
+922 NW 11th Ave APT 201,Portland,OR,97209,929900,1627.0,2.0,2.0,74,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/922-NW-11th-Ave-APT-201-Portland-OR-97209/63298024_zpid/
+1314 NW Irving St APT 508,Portland,OR,97209,625000,1635.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1314-NW-Irving-St-APT-508-Portland-OR-97209/53885552_zpid/
+1255 NW 9th Ave APT 1403,Portland,OR,97209,2750000,2590.0,3.0,3.0,43,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1255-NW-9th-Ave-APT-1403-Portland-OR-97209/65063186_zpid/
+420 NW 11th Ave UNIT 521,Portland,OR,97209,619900,1306.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/420-NW-11th-Ave-UNIT-521-Portland-OR-97209/58474828_zpid/
+730 NW Naito Pkwy APT E34,Portland,OR,97209,429950,1017.0,2.0,2.0,145,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/730-NW-Naito-Pkwy-APT-E34-Portland-OR-97209/64649149_zpid/
+20 NW 16th Ave APT 317,Portland,OR,97209,189000,389.0,0.0,1.0,86,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-NW-16th-Ave-APT-317-Portland-OR-97209/72259805_zpid/
+620 NW Naito Pkwy APT B14,Portland,OR,97209,425000,1013.0,2.0,2.0,145,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/620-NW-Naito-Pkwy-APT-B14-Portland-OR-97209/64788471_zpid/
+1030 NW 12th Ave APT 509,Portland,OR,97209,1059000,1953.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1030-NW-12th-Ave-APT-509-Portland-OR-97209/61808086_zpid/
+311 NW 12th Ave UNIT 302,Portland,OR,97209,1250000,2074.0,2.0,3.0,138,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/311-NW-12th-Ave-UNIT-302-Portland-OR-97209/81912756_zpid/
+1133 NW 11th Ave APT 105,Portland,OR,97209,470000,873.0,1.0,1.0,152,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1133-NW-11th-Ave-APT-105-Portland-OR-97209/61186265_zpid/
+323 NW 13th Ave UNIT 406,Portland,OR,97209,529900,784.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/323-NW-13th-Ave-UNIT-406-Portland-OR-97209/83080168_zpid/
+710 NW Naito Pkwy APT C10,Portland,OR,97209,369900,895.0,2.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/710-NW-Naito-Pkwy-APT-C10-Portland-OR-97209/64629936_zpid/
+820 NW 12th Ave APT 604,Portland,OR,97209,1100000,1969.0,2.0,3.0,41,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/820-NW-12th-Ave-APT-604-Portland-OR-97209/53944455_zpid/
+1030 NW 12th Ave APT 129,Portland,OR,97209,385000,663.0,1.0,1.0,54,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1030-NW-12th-Ave-APT-129-Portland-OR-97209/61808038_zpid/
+618 NW 12th Ave APT 408,Portland,OR,97209,439500,910.0,1.0,1.0,160,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/618-NW-12th-Ave-APT-408-Portland-OR-97209/53882890_zpid/
+1001 NW Lovejoy St UNIT 309,Portland,OR,97209,869000,1237.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1001-NW-Lovejoy-St-UNIT-309-Portland-OR-97209/79895726_zpid/
+1260 NW Naito Pkwy UNIT 607,Portland,OR,97209,634000,1077.0,1.0,2.0,34,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1260-NW-Naito-Pkwy-UNIT-607-Portland-OR-97209/2107332689_zpid/
+300 NW 8th Ave APT 1002,Portland,OR,97209,1450000,1872.0,2.0,2.0,116,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/300-NW-8th-Ave-APT-1002-Portland-OR-97209/54008627_zpid/
+1420 NW Lovejoy St APT 433,Portland,OR,97209,339000,731.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1420-NW-Lovejoy-St-APT-433-Portland-OR-97209/61808932_zpid/
+1030 NW 12th Ave APT 408,Portland,OR,97209,365000,610.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1030-NW-12th-Ave-APT-408-Portland-OR-97209/61788070_zpid/
+420 NW 11th Ave UNIT 711,Portland,OR,97209,455000,769.0,1.0,1.0,222,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/420-NW-11th-Ave-UNIT-711-Portland-OR-97209/58474861_zpid/
+1310 NW Naito Pkwy UNIT 102A,Portland,OR,97209,749000,1477.0,2.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1310-NW-Naito-Pkwy-UNIT-102A-Portland-OR-97209/83080089_zpid/
+1255 NW 9th Ave APT 102,Portland,OR,97209,465000,887.0,1.0,1.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1255-NW-9th-Ave-APT-102-Portland-OR-97209/65063178_zpid/
+1310 NW Naito Pkwy UNIT 809A,Portland,OR,97209,499000,853.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1310-NW-Naito-Pkwy-UNIT-809A-Portland-OR-97209/83079364_zpid/
+1420 NW Lovejoy St APT 407,Portland,OR,97209,699000,1479.0,1.0,2.0,95,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1420-NW-Lovejoy-St-APT-407-Portland-OR-97209/61808912_zpid/
+1260 NW Naito Pkwy UNIT 507,Portland,OR,97209,599900,1073.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1260-NW-Naito-Pkwy-UNIT-507-Portland-OR-97209/2107415277_zpid/
+1260 NW Naito Pkwy UNIT 408B,Portland,OR,97209,625000,1113.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1260-NW-Naito-Pkwy-UNIT-408B-Portland-OR-97209/83076713_zpid/
+333 NW 9th Ave APT 910,Portland,OR,97209,519900,982.0,1.0,1.0,188,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/333-NW-9th-Ave-APT-910-Portland-OR-97209/64773856_zpid/
+1420 NW Lovejoy St APT 402,Portland,OR,97209,629000,1421.0,1.0,2.0,NA,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1420-NW-Lovejoy-St-APT-402-Portland-OR-97209/61808907_zpid/
+1255 NW 9th Ave APT 118,Portland,OR,97209,530000,941.0,1.0,1.0,133,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1255-NW-9th-Ave-APT-118-Portland-OR-97209/65063180_zpid/
+949 NW Overton St UNIT 915,Portland,OR,97209,589950,1026.0,1.0,1.0,193,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/949-NW-Overton-St-UNIT-915-Portland-OR-97209/83077688_zpid/
+NW 11th Ave APT 607,Portland,OR,97209,NA,1006.0,NA,2.0,152,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/242112979_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+7416 N Jordan Ave,Portland,OR,97203,299000,929.0,2.0,1.0,NA,Coming Soon,http://www.zillow.com/homes/for_sale//homedetails/7416-N-Jordan-Ave-Portland-OR-97203/53973818_zpid/
+8522 N Dana Ave,Portland,OR,97203,360000,968.0,3.0,1.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8522-N-Dana-Ave-Portland-OR-97203/53974158_zpid/
+8234 N Willamette Blvd,Portland,OR,97203,329900,752.0,2.0,1.0,5,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8234-N-Willamette-Blvd-Portland-OR-97203/98874714_zpid/
+7659 N Westanna Ave # 1,Portland,OR,97203,329900,915.0,2.0,1.0,5,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/7659-N-Westanna-Ave-1-Portland-OR-97203/2091040144_zpid/
+N Charleston Ave # 1&2,Portland,OR,97203,119900,1306.0,NA,NA,5,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/N-Charleston-Ave-1&2-Portland-OR-97203/2091048829_zpid/
+7659 N Westanna Ave,Portland,OR,97203,1799000,5462.0,6.0,4.0,8,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/7659-N-Westanna-Ave-Portland-OR-97203/2091083650_zpid/
+7659 N Westanna Ave # 2,Portland,OR,97203,579900,1816.0,4.0,3.0,5,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/7659-N-Westanna-Ave-2-Portland-OR-97203/2091040140_zpid/
+5275 N Newark St,Portland,OR,97203,419900,1232.0,3.0,3.0,18,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5275-N-Newark-St-Portland-OR-97203/2091998190_zpid/
+5432 N Fessenden St,Portland,OR,97203,309000,1168.0,2.0,1.0,21,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5432-N-Fessenden-St-Portland-OR-97203/53843576_zpid/
+9407 N Fairhaven Ave,Portland,OR,97203,299786,720.0,2.0,1.0,12,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9407-N-Fairhaven-Ave-Portland-OR-97203/53854697_zpid/
+7159 N Jordan Ave,Portland,OR,97203,457900,2700.0,3.0,2.0,24,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7159-N-Jordan-Ave-Portland-OR-97203/53956587_zpid/
+4210 N Juneau St,Portland,OR,97203,274950,1080.0,3.0,2.0,20,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/4210-N-Juneau-St-Portland-OR-97203/53828058_zpid/
+8539 N Princeton St,Portland,OR,97203,334900,1046.0,2.0,1.1,19,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8539-N-Princeton-St-Portland-OR-97203/58475050_zpid/
+9233 N Wall Ave,Portland,OR,97203,350000,912.0,3.0,1.0,20,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9233-N-Wall-Ave-Portland-OR-97203/53875104_zpid/
+7624 N Leonard St,Portland,OR,97203,775000,2412.0,5.0,3.0,27,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/7624-N-Leonard-St-Portland-OR-97203/2091392934_zpid/
+7104 N Fessenden St,Portland,OR,97203,450000,1754.0,4.0,2.0,18,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/7104-N-Fessenden-St-Portland-OR-97203/53854718_zpid/
+9531 N Woolsey Ave,Portland,OR,97203,287000,1560.0,3.0,2.5,235,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/9531-N-Woolsey-Ave-Portland-OR-97203/79896490_zpid/
+10134 N Central St,Portland,OR,97203,247000,1460.0,2.0,1.0,1611,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/10134-N-Central-St-Portland-OR-97203/53880803_zpid/
+7582 N Burlington Ave # 7-5,Portland,OR,97203,313000,1657.0,3.0,2.0,362,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/7582-N-Burlington-Ave-7-5-Portland-OR-97203/70515643_zpid/
+8337 N Newman Ave,Portland,OR,97203,310000,1506.0,3.0,3.0,159,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8337-N-Newman-Ave-Portland-OR-97203/53868847_zpid/
+5802 N Yale St,Portland,OR,97203,319000,1770.0,2.0,NA,NA,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/5802-N-Yale-St-Portland-OR-97203/53936857_zpid/
+9634 N Willamette Blvd,Portland,OR,97203,345000,1606.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9634-N-Willamette-Blvd-Portland-OR-97203/53950249_zpid/
+8948 N Westanna Ave,Portland,OR,97203,329950,1772.0,3.0,2.0,195,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8948-N-Westanna-Ave-Portland-OR-97203/53919496_zpid/
+7014 N Sedro St,Portland,OR,97203,450000,2102.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7014-N-Sedro-St-Portland-OR-97203/53854805_zpid/
+7501 N Leavitt Ave # 2-4,Portland,OR,97203,207000,728.0,NA,1.0,949,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/7501-N-Leavitt-Ave-2-4-Portland-OR-97203/68353419_zpid/
+7421 N Huron Ave,Portland,OR,97203,364900,1520.0,2.0,2.0,NA,Foreclosure,http://www.zillow.com/homes/for_sale//homedetails/7421-N-Huron-Ave-Portland-OR-97203/53956526_zpid/
+9223 N Seneca St,PORTLAND,OR,97203,355000,1651.0,3.0,1.0,NA,Auction,http://www.zillow.com/homes/for_sale//homedetails/9223-N-Seneca-St-Portland-OR-97203/53921545_zpid/
+8635 N Fox St,Portland,OR,97203,135000,4791.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/8635-N-Fox-St-Portland-OR-97203/119259787_zpid/
+6809 N Seneca St,Portland,OR,97203,323000,1502.0,NA,2.5,111,Foreclosed,http://www.zillow.com/homes/for_sale//homedetails/6809-N-Seneca-St-Portland-OR-97203/68350825_zpid/
+9430 N Macrum Ave,Portland,OR,97203,369900,1386.0,3.0,3.0,35,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9430-N-Macrum-Ave-Portland-OR-97203/83080535_zpid/
+7424 N Wayland Ave,Portland,OR,97203,524900,2286.0,5.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7424-N-Wayland-Ave-Portland-OR-97203/53913966_zpid/
+9731 N Adriatic Ave,Portland,OR,97203,359900,1423.0,3.0,3.0,39,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9731-N-Adriatic-Ave-Portland-OR-97203/58475057_zpid/
+5516 N Depauw St,Portland,OR,97203,599900,2021.0,4.0,3.0,130,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5516-N-Depauw-St-Portland-OR-97203/53936734_zpid/
+4830 N Harvard St,Portland,OR,97203,453900,1240.0,3.0,2.0,48,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/4830-N-Harvard-St-Portland-OR-97203/53973725_zpid/
+6610 N Oswego Ave,Portland,OR,97203,175000,NA,NA,NA,113,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/6610-N-Oswego-Ave-Portland-OR-97203/2105159698_zpid/
+6453 N Yale St,Portland,OR,97203,399000,1639.0,3.0,1.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6453-N-Yale-St-Portland-OR-97203/53867017_zpid/
+4703 N Willamette Blvd,Portland,OR,97203,569000,2447.0,2.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/4703-N-Willamette-Blvd-Portland-OR-97203/53843336_zpid/
+9571 N Calhoun Ave,Portland,OR,97203,485000,2190.0,5.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9571-N-Calhoun-Ave-Portland-OR-97203/54008011_zpid/
+9725 N Van Houten Ave,Portland,OR,97203,439900,1445.0,3.0,3.0,189,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9725-N-Van-Houten-Ave-Portland-OR-97203/2093121762_zpid/
+6916 N Mckenna Ave,Portland,OR,97203,619900,2356.0,4.0,4.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6916-N-Mckenna-Ave-Portland-OR-97203/108700270_zpid/
+6535 N Oberlin St,Portland,OR,97203,615000,2328.0,5.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6535-N-Oberlin-St-Portland-OR-97203/53920520_zpid/
+7208 N Olin Ave,Portland,OR,97203,585000,2693.0,3.0,3.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/7208-N-Olin-Ave-Portland-OR-97203/71245236_zpid/
+8504 N Fiske Ave,Portland,OR,97203,694950,2236.0,3.0,3.0,94,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/8504-N-Fiske-Ave-Portland-OR-97203/53868853_zpid/
+9400 N Saint Louis Ave,Portland,OR,97203,209500,5227.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/9400-N-Saint-Louis-Ave-Portland-OR-97203/80930230_zpid/
+9919 N Decatur St,Portland,OR,97203,349000,1410.0,3.0,2.5,NA,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/9919-N-Decatur-St-Portland-OR-97203/61809343_zpid/
+9705 N Jersey St,Portland,OR,97203,320000,1474.0,3.0,3.0,134,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/9705-N-Jersey-St-Portland-OR-97203/82336421_zpid/
+8816 N Edison St,Portland,OR,97203,580000,2000.0,3.0,4.0,214,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/8816-N-Edison-St-Portland-OR-97203/2093413147_zpid/
+8114 N Jersey St,Portland,OR,97203,499000,4791.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/8114-N-Jersey-St-Portland-OR-97203/53954158_zpid/
+9812 N Exeter Ave,Portland,OR,97203,429000,1464.0,3.0,2.0,63,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/9812-N-Exeter-Ave-Portland-OR-97203/53843687_zpid/
+9039 N Richmond Ave,Portland,OR,97203,350000,1456.0,3.0,1.0,52,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/9039-N-Richmond-Ave-Portland-OR-97203/53935145_zpid/
+9430 N Ivanhoe St,Portland,OR,97203,550000,2167.0,3.0,4.0,153,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/9430-N-Ivanhoe-St-Portland-OR-97203/53840023_zpid/
+6645 N Columbia Blvd,Portland,OR,97203,369900,1360.0,3.0,3.0,47,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/6645-N-Columbia-Blvd-Portland-OR-97203/53854351_zpid/
+5935 N Willamette Blvd,Portland,OR,97203,629000,3936.0,4.0,2.0,NA,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5935-N-Willamette-Blvd-Portland-OR-97203/53992877_zpid/
+5489 N Bowdoin St,Portland,OR,97203,649999,2109.0,4.0,4.0,96,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/5489-N-Bowdoin-St-Portland-OR-97203/2092039021_zpid/
+4118 N Russet St,Portland,OR,97203,239900,6098.0,NA,NA,NA,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/4118-N-Russet-St-Portland-OR-97203/53992894_zpid/
+8616 N Woolsey Ave,Portland,OR,97203,619850,2250.0,4.0,2.1,46,New Construction,http://www.zillow.com/homes/for_sale//homedetails/8616-N-Woolsey-Ave-Portland-OR-97203/124247587_zpid/
+8622 N Dana Ave,Portland,OR,97203,190000,NA,NA,NA,48,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/8622-N-Dana-Ave-Portland-OR-97203/53974160_zpid/
+9707 N Lombard St,Portland,OR,97203,349900,2551.0,4.0,1.0,185,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9707-N-Lombard-St-Portland-OR-97203/53880666_zpid/
+7552 N Heppner Ave,Portland,OR,97203,550000,1834.0,3.0,3.0,877,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/7552-N-Heppner-Ave-Portland-OR-97203/83078135_zpid/
+10214 N Allegheny Ave,Portland,OR,97203,539000,1416.0,3.0,1.0,187,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/10214-N-Allegheny-Ave-Portland-OR-97203/53919037_zpid/
+8120 N Jersey St,Portland,OR,97203,845000,4460.0,3.0,3.0,95,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/8120-N-Jersey-St-Portland-OR-97203/2092032984_zpid/
+6635 N Columbia Way,Portland,OR,97203,545000,2912.0,2.0,2.0,54,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/6635-N-Columbia-Way-Portland-OR-97203/2091683067_zpid/
+7466 N Van Houten Ave # 2,Portland,OR,97203,379900,5662.0,NA,NA,160,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/7466-N-Van-Houten-Ave-2-Portland-OR-97203/2092759473_zpid/
+Westanna St,Portland,OR,97203,759950,5662.0,NA,NA,39,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/Westanna-St-Portland-OR-97203/2093167622_zpid/
+4468 N Hunt St,Portland,OR,97203,499850,1974.0,3.0,2.1,65,New Construction,http://www.zillow.com/homes/for_sale//homedetails/4468-N-Hunt-St-Portland-OR-97203/2091759529_zpid/
+8422 N Seneca St,Portland,OR,97203,450000,1100.0,3.0,2.0,61,Make Me Move®,http://www.zillow.com/homes/for_sale//homedetails/8422-N-Seneca-St-Portland-OR-97203/53940338_zpid/
+9734 N Hodge Ave,Portland,OR,97203,850000,NA,NA,NA,125,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/9734-N-Hodge-Ave-Portland-OR-97203/2092366783_zpid/
+9438 N Gilbert Ave,Portland,OR,97203,475000,1256.0,3.0,2.0,316,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/9438-N-Gilbert-Ave-Portland-OR-97203/53973426_zpid/
+N Calhoun Ave,Portland,OR,97203,NA,960.0,3.0,1.5,120,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447673_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+N Polk Ave,Portland,OR,97203,NA,1429.0,3.0,2.5,41,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/244421586_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+N Druid Ave,Portland,OR,97203,NA,1264.0,3.0,1.5,222,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/239971163_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+N Oberlin St,Portland,OR,97203,NA,1238.0,2.0,1.0,207,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240430863_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+N Tioga Ave,Portland,OR,97203,NA,1372.0,4.0,2.0,209,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/240500924_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+N Charleston Ave,Portland,OR,97203,NA,924.0,1.0,1.0,461,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/176447720_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+N Astor St,Portland,OR,97203,NA,1200.0,2.0,1.0,179,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/241684250_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+N Yale St,Portland,OR,97203,NA,1623.0,2.0,1.5,137,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/243140172_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
